@@ -1,0 +1,903 @@
+{
+  "auth": {
+    "features": {
+      "first": {
+        "description": "Piaomiaoxu uses high-speed, full-transit dedicated lines to ensure a stable network, high throughput, and millisecond-level response times.",
+        "title": "High-speed full-transit dedicated lines"
+      },
+      "second": {
+        "description": "Unlimited access and smart acceleration for AI services like OpenAI ChatGPT, Google Bard, Middlebury, and more.",
+        "title": "AI intelligent acceleration"
+      },
+      "third": {
+        "description": "Unlock streaming services such as Netflix, YouTube, Hulu, BBC iPlayer, Amazon Prime Video, and more.",
+        "title": "Streaming unlock"
+      }
+    },
+    "logout": "Log out",
+    "message": {
+      "LoggedIn": "Logged in",
+      "loginPlease": "Please log in first"
+    },
+    "title": "Start connecting to the world here 👏\nPiaomiaoxu — Enjoy global network acceleration"
+  },
+  "bill": {
+    "balance": "Pay with balance",
+    "discount": "Existing plan discount",
+    "discountTips": "Your original plan will offset the price of the new plan. Any difference will be refunded or charged accordingly. Refunds go to your account balance.",
+    "handlingFee": "Handling fee",
+    "original": "Original price",
+    "payButton": "Pay now",
+    "payIconText": "Secure payment",
+    "payment": "Payment method",
+    "preferential": "Discount",
+    "realPrice": "Amount due",
+    "title": "Pay bill"
+  },
+  "client": {
+    "android": {
+      "description": "All Android devices (Huawei / Xiaomi / OPPO, etc.)",
+      "title": "Android Client"
+    },
+    "btn": "Download now",
+    "homePage": {
+      "description": "Our in-house client supports Windows, macOS, iOS, Android and more — full coverage across devices.",
+      "title": "All-platform support\nClick the icons below to download"
+    },
+    "ios": {
+      "description": "Full range of iPhone / iPad",
+      "title": "iOS Client"
+    },
+    "knowledgeAll": "All tutorials",
+    "knowledgePage": "Client Tutorials",
+    "mac": {
+      "description": "Intel / Apple Silicon",
+      "title": "macOS Client"
+    },
+    "windows": {
+      "description": "32-bit / 64-bit",
+      "title": "Windows Client"
+    }
+  },
+  "coupon": {
+    "button": "Verify coupon",
+    "comment": "Follow our official Telegram channel for the latest deals",
+    "placeholder": "👋 Got a coupon? Enter it here — otherwise ignore",
+    "title": "Coupon",
+    "message": {
+      "empty": "Please enter a coupon",
+      "invalid": "Invalid coupon",
+      "mismatch": "This coupon doesn’t apply to the selected billing cycle. Change the cycle and try again.",
+      "success": "Coupon verified"
+    }
+  },
+  "couponExchange": {
+    "checkButton": "Verify CDKEY",
+    "exchangeButton": "Redeem plan",
+    "menu": "CDKEY Redemption",
+    "message": {
+      "empty": "Please enter a CDKEY",
+      "error": "Redemption failed",
+      "incorrectType": "This CDKEY cannot be redeemed for a plan",
+      "notPeriod": "This CDKEY doesn’t include any billing cycle",
+      "notPlan": "This CDKEY doesn’t include any plan",
+      "success": "Redeemed {plan} successfully"
+    },
+    "placeholder": "Enter your CDKEY redemption code",
+    "title": "CDKEY"
+  },
+  "currency": {
+    "symbol": "¥",
+    "unit": "Yuan"
+  },
+  "footer": {
+    "copyRight": "© 2025 Piaomiaoxu All Rights Reserved",
+    "links": {
+      "1": {
+        "text": "Alternative site",
+        "url": "https://piaomiaoxu.github.io"
+      },
+      "2": {
+        "text": "Join Telegram channel",
+        "url": "https://t.me/pmxu_notice"
+      },
+      "3": {
+        "text": "Join Telegram group",
+        "url": "https://t.me/piaomiaoxu"
+      }
+    }
+  },
+  "giftcard": {
+    "button": "Redeem now",
+    "menu": "Gift Card Redemption",
+    "message": {
+      "balance": "Redeemed successfully. Account credited: {balance} Yuan",
+      "empty": "Please enter the gift card code",
+      "error": "Gift card redemption failed",
+      "plan": "Redeemed successfully. A new subscription plan has been added for {time} days",
+      "reset": "Redeemed successfully. Subscription traffic reset",
+      "time": "Redeemed successfully. Subscription extended by {time} days",
+      "traffic": "Redeemed successfully. Subscription traffic increased by {traffic} GB"
+    },
+    "placeholder": "Enter your gift card code",
+    "title": "Gift Card"
+  },
+  "home": {
+    "matrix": {
+      "description": "Access global video platforms with full unlock. Enjoy unrestricted access to ChatGPT, Telegram, YouTube and more — anytime, anywhere.",
+      "title": "Full streaming unlock\nUnlimited access to global apps"
+    },
+    "nodes": {
+      "country": {
+        "cn-hk": "Hong Kong, China",
+        "ca": "Canada",
+        "de": "Germany",
+        "in": "India",
+        "en": "England",
+        "us": "United States",
+        "kr": "South Korea",
+        "kp": "North Korea",
+        "jp": "Japan",
+        "aq": "Antarctica",
+        "sg": "Singapore",
+        "tw": "Taiwan, China",
+        "th": "Thailand",
+        "vn": "Vietnam",
+        "my": "Malaysia",
+        "ph": "Philippines",
+        "id": "Indonesia",
+        "tr": "Türkiye",
+        "ru": "Russia",
+        "fr": "France",
+        "es": "Spain",
+        "it": "Italy",
+        "br": "Brazil",
+        "mx": "Mexico",
+        "ar": "Argentina",
+        "au": "Australia",
+        "nz": "New Zealand",
+        "za": "South Africa",
+        "eg": "Egypt",
+        "il": "Israel",
+        "ae": "United Arab Emirates",
+        "fi": "Finland",
+        "se": "Sweden",
+        "dk": "Denmark",
+        "nl": "Netherlands",
+        "be": "Belgium",
+        "no": "Norway",
+        "rs": "Serbia",
+        "rw": "Rwanda",
+        "sa": "Saudi Arabia",
+        "sb": "Solomon Islands",
+        "sc": "Seychelles",
+        "sd": "Sudan",
+        "sh": "Saint Helena",
+        "si": "Slovenia",
+        "sk": "Slovakia",
+        "sl": "Sierra Leone",
+        "sm": "San Marino",
+        "sn": "Senegal",
+        "so": "Somalia",
+        "sr": "Suriname",
+        "ss": "South Sudan",
+        "su": "Soviet Union",
+        "sv": "El Salvador",
+        "sx": "Sint Maarten (Netherlands)",
+        "sy": "Syria",
+        "sz": "Eswatini",
+        "td": "Chad",
+        "tg": "Togo",
+        "tj": "Tajikistan",
+        "tk": "Tokelau",
+        "tl": "Timor-Leste",
+        "tm": "Turkmenistan",
+        "tn": "Tunisia",
+        "to": "Tonga",
+        "tv": "Tuvalu",
+        "tz": "Tanzania",
+        "ua": "Ukraine",
+        "ug": "Uganda",
+        "uk": "United Kingdom",
+        "uy": "Uruguay",
+        "uz": "Uzbekistan",
+        "va": "Vatican City",
+        "ve": "Venezuela",
+        "vu": "Vanuatu",
+        "ws": "Samoa",
+        "xk": "Kosovo",
+        "ye": "Yemen",
+        "yt": "Mayotte",
+        "yu": "Yugoslavia",
+        "zm": "Zambia",
+        "zw": "Zimbabwe"
+      },
+      "description": "1,000+ high-speed servers worldwide. Enjoy fast, stable connections anytime, anywhere.",
+      "title": "Global nodes, high-speed & stable connections"
+    },
+    "poster": {
+      "button": "Try now",
+      "description": "Get network acceleration interconnected with hundreds of content providers worldwide, with single-line access up to 2000 Mbps.",
+      "features": {
+        "1": "Streaming unlock",
+        "2": "Full-transit nodes",
+        "3": "All-platform support",
+        "4": "Tunnel encryption",
+        "5": "Always on",
+        "6": "Dedicated line acceleration"
+      },
+      "title": "Piaomiaoxu\nUnlimited global network acceleration"
+    },
+    "privacy": {
+      "description": "Full-transit nodes and tunnel encryption protect your privacy with secure, never-leaking encryption.",
+      "steps": {
+        "node": "Global high-protection nodes",
+        "safe": "Tunnel encryption",
+        "target": "Overseas services",
+        "transfer": "High-speed transit",
+        "user": "Your device"
+      },
+      "title": "Privacy protection & secure encryption"
+    },
+    "service": {
+      "button": {
+        "text": "Contact support",
+        "url": "https://t.me/piaomiaoxu"
+      },
+      "description": "Multiple contact options. Network engineers are on call — rapid response with VIP service that never goes dark.",
+      "title": "24×7 ultra-fast support"
+    },
+    "shop": {
+      "button": "Buy now",
+      "description": "Global IEPL dedicated nodes. Subscribe monthly/quarterly/annually for more savings.",
+      "plans": {
+        "cycle": {
+          "1": {
+            "features": {
+              "ad": "Save ¥5 on quarterly billing",
+              "list": "Traffic: 200 GB per month, resets monthly\nDevices: Unlimited devices\nBandwidth: 50 Mbps cap\nLines: High-speed nodes\nNodes: 32 countries/regions",
+              "title": "Plan features"
+            },
+            "name": "Basis — High-Speed",
+            "price": "10",
+            "priceTime": "month",
+            "sid": "2"
+          },
+          "2": {
+            "features": {
+              "ad": "Save ¥6 on quarterly billing",
+              "list": "Traffic: 600 GB per month, resets monthly\nDevices: Unlimited devices\nBandwidth: 100 Mbps cap\nLines: IEPL dedicated + relay tunnel\nNodes: 65 countries/regions",
+              "title": "Plan features"
+            },
+            "name": "Standard — Pro",
+            "price": "20",
+            "priceTime": "month",
+            "sid": "5"
+          },
+          "3": {
+            "features": {
+              "ad": "Save ¥6 on quarterly billing",
+              "list": "Traffic: 999 GB per month, resets monthly\nDevices: Unlimited devices\nBandwidth: 200 Mbps cap\nLines: IEPL dedicated + relay tunnel + enterprise dedicated\nNodes: 108 countries/regions\nStreaming unlock",
+              "title": "Plan features"
+            },
+            "name": "Premium — Flagship",
+            "price": "35",
+            "priceTime": "month",
+            "sid": "6"
+          }
+        },
+        "flow": {
+          "1": {
+            "features": {
+              "ad": "Permanent, no-expiry data pack",
+              "list": "Traffic: 200 GB permanent (consumed until depleted)\nDevices: Unlimited\nBandwidth: 100 Mbps cap\nLines: IEPL dedicated + relay tunnel + enterprise dedicated\nNodes: 108 countries/regions",
+              "title": "Plan features"
+            },
+            "name": "Rocket 200GB",
+            "price": "60",
+            "priceTime": "permanent",
+            "sid": "28"
+          },
+          "2": {
+            "features": {
+              "ad": "Permanent, no-expiry data pack",
+              "list": "Traffic: 600 GB permanent (consumed until depleted)\nDevices: Unlimited\nBandwidth: 200 Mbps cap\nLines: IEPL dedicated + relay tunnel + enterprise dedicated\nNodes: 108 countries/regions",
+              "title": "Plan features"
+            },
+            "name": "Rocket 600GB",
+            "price": "99",
+            "priceTime": "permanent",
+            "sid": "29"
+          },
+          "3": {
+            "features": {
+              "ad": "Permanent, no-expiry data pack",
+              "list": "Traffic: 900 GB permanent (consumed until depleted)\nDevices: Unlimited\nBandwidth: 300 Mbps cap\nLines: IEPL dedicated + relay tunnel + enterprise dedicated\nNodes: 108 countries/regions",
+              "title": "Plan features"
+            },
+            "name": "Rocket 900GB",
+            "price": "169",
+            "priceTime": "permanent",
+            "sid": "30"
+          }
+        },
+        "switch": {
+          "cycle": "Subscription",
+          "flow": "Pay-as-you-go"
+        }
+      },
+      "title": "Buy a plan and enjoy global acceleration"
+    }
+  },
+  "invite": {
+    "banner": {
+      "button": "Invite now",
+      "description": "Earn commissions instantly — withdraw cash or use them at checkout.",
+      "title": "Invite friends\nEarn generous commissions"
+    },
+    "codeList": {
+      "button": "Generate invite code",
+      "copy": "Copy invite link",
+      "empty": "No invite codes yet",
+      "item": "Invite code",
+      "tips": "Copy the link and share it with friends. When they register via your link, you earn commissions.",
+      "title": "Invite code management"
+    },
+    "message": {
+      "codeCopySuccess": "Invite link copied",
+      "codeCreateSuccess": "Invite code created"
+    },
+    "recordList": {
+      "commission": "Commission",
+      "createdTime": "Created at",
+      "empty": "No commission records yet",
+      "orderAmount": "Order amount",
+      "title": "Commission records"
+    },
+    "wallet": {
+      "button": {
+        "transfer": "Transfer",
+        "withdraw": "Withdraw"
+      },
+      "confirm": "Commissions pending confirmation",
+      "description": "Current commission balance",
+      "people": "Invites",
+      "proportion": "Commission rate",
+      "title": "Invite commissions",
+      "total": "Total commissions",
+      "transfer": {
+        "balance": "Transfer amount",
+        "error": {
+          "empty": "Amount must be greater than 0"
+        },
+        "max": "Maximum transferable",
+        "submit": "Transfer now",
+        "success": "Commission transferred to balance",
+        "title": "Commission transfer"
+      },
+      "withdraw": {
+        "account": "Withdrawal account",
+        "description": "Withdrawing clears the current commission balance. Funds arrive within 1–3 business days.",
+        "method": "Withdrawal method",
+        "submit": "Withdraw now",
+        "success": "Withdrawal request submitted",
+        "title": "Commission withdrawal"
+      }
+    }
+  },
+  "login": {
+    "description": "High-speed network across the globe",
+    "email": {
+      "placeholder": "Enter your email",
+      "rules": {
+        "required": "Please enter a valid email"
+      }
+    },
+    "password": {
+      "placeholder": "Enter your password",
+      "rules": {
+        "min": "Password must be at least 8 characters",
+        "required": "Please enter your password"
+      }
+    },
+    "register": "No account yet? Register",
+    "remember": "Remember me",
+    "reset": "Forgot password?",
+    "submit": "Log in",
+    "success": "Logged in successfully",
+    "title": "Log in — Piaomiaoxu"
+  },
+  "node": {
+    "banner": {
+      "button": "Contact support",
+      "title": "No suitable node? Tap below to contact support for a custom setup"
+    },
+    "check": "Last check",
+    "empty": "No nodes available",
+    "rate": "Rate",
+    "ss": "Copy SS node link"
+  },
+  "notice": {
+    "clickText": "Click to view details",
+    "coupon": {
+      "btnText": "Get renewal coupon",
+      "countText": "Time left:",
+      "title": "Long time no see\nLimited-time renewal discount"
+    },
+    "empty": "No notifications yet",
+    "iconBox": {
+      "button": "View all notifications",
+      "more": "Load more",
+      "title": "All notifications"
+    },
+    "newUser": {
+      "btnText": "Get coupon & order",
+      "countText": "Countdown:",
+      "title": "Welcome offer\nLimited-time discount"
+    },
+    "obj": {
+      "balance": "Cash coupon",
+      "balanceSuffix": "Yuan",
+      "discount": "Discount coupon",
+      "discountSuffix": "off"
+    },
+    "special": {
+      "btnText": "Get coupon & order",
+      "countText": "Countdown:",
+      "title": "Holiday specials\nLimited-time discounts"
+    },
+    "top": "Important notice"
+  },
+  "order": {
+    "button": {
+      "cancel": "Cancel order",
+      "detail": "View details"
+    },
+    "deposit": "Top up",
+    "detail": {
+      "createdTime": "Order time",
+      "message": {
+        "cancelError": "Failed to cancel order",
+        "cancelSuccess": "Order cancelled",
+        "copyError": "Failed to copy payment address",
+        "copySuccess": "Payment address copied"
+      },
+      "qrcodeTips": "Open WeChat/Alipay and scan to pay",
+      "payCopy": "Copy payment address",
+      "payTips": "Complete the payment via scan or on the opened payment page. If it doesn’t redirect automatically, copy the address above and open it manually. Avoid cancelling while payment is processing to prevent duplicate charges or status errors.",
+      "payUrl": "Payment address",
+      "payWaiting": "Waiting for payment completion",
+      "planInfo": "Plan",
+      "title": "Order details",
+      "tradeNo": "Order #"
+    },
+    "list": {
+      "action": "Action",
+      "amount": "Amount",
+      "empty": "No orders yet",
+      "number": "#",
+      "order": "Order info",
+      "status": "Status"
+    },
+    "message": {
+      "cancelSuccess": "Order cancelled",
+      "copyPayUrlError": "Failed to copy payment address",
+      "copyPayUrlSuccess": "Payment address copied"
+    },
+    "payPending": {
+      "copyPayUrl": "Copy payment link",
+      "linkButton": "Go to payment",
+      "tips": "Do not cancel while payment is in progress to avoid duplicate charges or callbacks failing.",
+      "title": "You have an unpaid order",
+      "url": "Payment address"
+    },
+    "status": {
+      "cancelled": "Cancelled",
+      "completed": "Completed",
+      "discounted": "Discounted",
+      "paid": "Activating",
+      "pending": "Pending"
+    },
+    "title": "Orders"
+  },
+  "page": {
+    "auth": "Login / Register",
+    "base": {
+      "dashboard": "Dashboard",
+      "knowledge": "Tutorials",
+      "label": "Basic"
+    },
+    "commercial": {
+      "invite": "My invites",
+      "label": "Finance",
+      "order": "My orders"
+    },
+    "download": "Download",
+    "home": "Home",
+    "menus": {
+      "all": "All menus",
+      "close": "Close menu"
+    },
+    "person": {
+      "label": "Personal",
+      "profile": "Account settings",
+      "ticket": "Support tickets",
+      "traffic": "Traffic records"
+    },
+    "subscribe": {
+      "label": "Subscription",
+      "node": "Node status",
+      "shop": "Buy plans"
+    }
+  },
+  "plan": {
+    "device": "Devices",
+    "deviceUnit": "devices",
+    "name": "Plan name",
+    "period": "Billing period",
+    "periodList": {
+      "half_year_price": "Half-year",
+      "month_price": "Monthly",
+      "onetime_price": "One-time",
+      "quarter_price": "Quarterly",
+      "reset_price": "Reset pack",
+      "three_year_price": "3 years",
+      "two_year_price": "2 years",
+      "year_price": "Yearly"
+    },
+    "periodUnit": {
+      "half_year_price": "half-year",
+      "month_price": "month",
+      "onetime_price": "one-time",
+      "quarter_price": "quarter",
+      "reset_price": "reset pack",
+      "three_year_price": "3 years",
+      "two_year_price": "2 years",
+      "year_price": "year"
+    },
+    "speed": "Bandwidth",
+    "speedUnLimit": "Unlimited speed",
+    "traffic": "Plan data"
+  },
+  "profile": {
+    "wallet": {
+      "balance": {
+        "account": "Account balance",
+        "invite": "Commission balance"
+      },
+      "button": "Top up",
+      "description": "Includes available wallet and commission wallet balances",
+      "recharge": {
+        "balance": "Top-up amount",
+        "newLabel": "Balance after top-up",
+        "oldLabel": "Current balance",
+        "submit": "Top up now",
+        "title": "Balance top-up"
+      },
+      "title": "My wallet"
+    }
+  },
+  "register": {
+    "code": {
+      "button": "Send code",
+      "placeholder": "Enter the email verification code"
+    },
+    "description": "Start connecting to the world",
+    "email": {
+      "placeholder": "Enter your email",
+      "rules": {
+        "required": "Please enter a valid email"
+      }
+    },
+    "invite": {
+      "placeholder": "Enter invite code",
+      "rules": {
+        "required": "Invite code is required"
+      }
+    },
+    "login": "Already have an account? Log in",
+    "password": {
+      "placeholder": "Enter your login password",
+      "rules": {
+        "min": "Password must be at least 8 characters",
+        "required": "Please enter your password"
+      }
+    },
+    "password2": {
+      "placeholder": "Re-enter your login password",
+      "rules": {
+        "min": "Password must be at least 8 characters",
+        "required": "Please re-enter your login password",
+        "same": "Passwords do not match"
+      }
+    },
+    "submit": "Register",
+    "success": "Registered successfully",
+    "title": "Register — Piaomiaoxu"
+  },
+  "reset": {
+    "changePwdByEmail": "Change password (email verification)",
+    "changePwdByOldPwd": "Change password (old password)",
+    "code": {
+      "button": "Send code",
+      "label": "Email verification code",
+      "placeholder": "Enter the email verification code",
+      "success": "Verification code sent to your email"
+    },
+    "description": "Reset your login password",
+    "email": {
+      "placeholder": "Enter your email",
+      "rules": {
+        "required": "Please enter a valid email"
+      }
+    },
+    "login": "Back to login",
+    "password": {
+      "label": "New password",
+      "placeholder": "Enter your new login password",
+      "rules": {
+        "min": "Password must be at least 8 characters",
+        "required": "Please enter your password"
+      }
+    },
+    "passwordConfirm": {
+      "label": "Confirm new password",
+      "placeholder": "Re-enter your new login password",
+      "rules": {
+        "min": "Password must be at least 8 characters",
+        "required": "Please re-enter your new login password",
+        "same": "Passwords do not match"
+      }
+    },
+    "passwordOld": {
+      "label": "Current password",
+      "placeholder": "Enter your current login password",
+      "rules": {
+        "min": "Password must be at least 8 characters",
+        "required": "Please enter your password"
+      }
+    },
+    "submit": "Reset password",
+    "success": "Password reset successfully",
+    "title": "Reset password"
+  },
+  "shop": {
+    "period": "Billing cycle",
+    "confirm": {
+      "description": "Please confirm your order details. Fees may vary by payment method.",
+      "title": "Confirm order",
+      "override": {
+        "title": "Switch plan?",
+        "content": "Changing plans will replace your current plan with the new one.",
+        "okText": "Confirm",
+        "cancelText": "Cancel"
+      }
+    },
+    "custom": {
+      "button": "Contact support",
+      "title": "Can’t find a suitable plan? Tap below for a custom plan"
+    },
+    "cycle": {
+      "description": "IEPL dedicated nodes with monthly/quarterly/annual subscriptions — enjoy more savings.",
+      "features": {
+        "more": "See more features",
+        "title": "Features"
+      },
+      "month": "Monthly",
+      "switchSuffix": "price",
+      "tag": "🔥 Best seller",
+      "title": "Subscriptions",
+      "year": "Yearly",
+      "yearByMonth": "Yearly at {discount} off — only {monthPrice} Yuan/month",
+      "yearByPrice": "Save {discountSubtract} Yuan on yearly billing"
+    },
+    "empty": "No plans available",
+    "flow": {
+      "button": "Buy now",
+      "description": "IEPL dedicated nodes with usage-based billing — no time limit, pay for what you use.",
+      "features": {
+        "more": "See more features",
+        "title": "Plan features"
+      },
+      "tag": "🔥 Recommended",
+      "tips": "No-expiry data pack",
+      "title": "Pay-as-you-go"
+    },
+    "hasToPayOrder": "You have an unpaid order",
+    "routerButton": "Subscribe now"
+  },
+  "subscribe": {
+    "empty": "Free — no subscription",
+    "expire": {
+      "empty": "Never expires",
+      "expired": "Plan expired",
+      "expireSoon": "Days left",
+      "expireUnit": "days",
+      "title": "Expiration"
+    },
+    "message": {
+      "linkCopySuccess": "Subscription link copied"
+    },
+    "renewal": {
+      "close": "Auto-renew is off",
+      "loading": "Switching auto-renew...",
+      "open": "Auto-renew is on",
+      "title": "Auto-renew"
+    },
+    "reset": {
+      "description": "Resets in {resetDay} days",
+      "descriptionForToday": "Reset today",
+      "empty": "No reset needed",
+      "title": "Data reset time"
+    },
+    "shortcut": {
+      "apps": {
+        "clash": {
+          "comment": "For third-party clients: Clash for Windows / Mac / Android / Linux",
+          "title": "Clash"
+        },
+        "export": "Import to",
+        "quantumult": {
+          "comment": "For third-party clients: Quantumult / Quantumult X for iOS / iPhone / iPad / Mac / Android",
+          "title": "Quantumult"
+        },
+        "shadowrocket": {
+          "comment": "For third-party clients: Shadowrocket for iOS / iPhone / iPad / Mac",
+          "title": "Shadowrocket"
+        },
+        "singbox": {
+          "comment": "For third-party clients: SingBox for iOS / iPhone / iPad / Mac",
+          "title": "SingBox"
+        },
+        "surfboard": {
+          "comment": "For third-party clients: Surfboard for Android",
+          "title": "Surfboard"
+        },
+        "surge": {
+          "comment": "For third-party clients: Surge for Windows / Mac / Android",
+          "title": "Surge"
+        },
+        "title": "Quick import to third-party clients"
+      },
+      "link": {
+        "button": "Copy subscription link",
+        "title": "Subscription link"
+      },
+      "qrcode": {
+        "tips": "Scan to import your subscription into\nShadowrocket / Clash and more"
+      },
+      "reset": {
+        "button": "Reset subscription",
+        "modal": {
+          "cancel": "Cancel",
+          "content": "If your subscription URL or info is leaked, you can reset it. After resetting, your UUID and subscription will change and you’ll need to re-import.",
+          "ok": "Confirm",
+          "success": "Subscription link reset",
+          "title": "Reset subscription link?"
+        },
+        "success": "Reset successful"
+      },
+      "title": "Subscription Center"
+    },
+    "title": "My subscription"
+  },
+  "ticket": {
+    "create": "Create ticket",
+    "form": {
+      "cancelText": "Cancel",
+      "level": "Ticket priority",
+      "message": "Ticket content",
+      "okText": "Submit",
+      "subject": "Ticket subject",
+      "tips": {
+        "empty": "Please complete all ticket fields",
+        "loading": "Submitting ticket...",
+        "success": "Ticket submitted"
+      },
+      "title": "Create a new ticket"
+    },
+    "level": {
+      "0": "Normal",
+      "1": "Important",
+      "2": "Urgent"
+    },
+    "status": {
+      "0": "Pending reply",
+      "1": "Replied",
+      "2": "Closed"
+    },
+    "table": {
+      "action": "Action",
+      "close": "Close",
+      "createdAt": "Created at",
+      "empty": "No tickets yet",
+      "level": "Priority",
+      "see": "View",
+      "status": "Status",
+      "subject": "Subject",
+      "updatedAt": "Last reply"
+    },
+    "talk": {
+      "admin": "Admin",
+      "me": "Me",
+      "placeholder": "Type to reply",
+      "submit": "Send"
+    },
+    "title": "If you need help, create a ticket to contact us"
+  },
+  "traffic": {
+    "description": {
+      "cycle": "Your subscription is billed monthly. Traffic resets in {resetDay} days and expires on {expireTime}.",
+      "oneTime": "Your subscription is billed by data usage. Data never expires — use it until it’s gone."
+    },
+    "remaining": "Remaining data",
+    "statistics": "Subscription data usage",
+    "table": {
+      "date": "Date",
+      "downloadUsage": "Total download",
+      "empty": "No data records yet",
+      "inner": {
+        "downloadUsage": "Download",
+        "rate": "Charge rate",
+        "rateUnit": "x",
+        "total": "Total",
+        "uploadUsage": "Upload"
+      },
+      "total": "Total",
+      "uploadUsage": "Total upload"
+    },
+    "total": "Total data",
+    "used": "Used data"
+  },
+  "welcomeCard": {
+    "button": {
+      "default": "Buy a plan now",
+      "renewal": "Renew now",
+      "reset": "Reset data now"
+    },
+    "hiname": "Halo, {name}",
+    "title": "From now on, enjoy global acceleration\nConnect to the world 👋"
+  },
+  "quick": {
+    "title": "High-speed acceleration tailored for mainland users",
+    "description": "Get interconnected with hundreds of global content providers. Full unlock for video platforms and unrestricted access to ChatGPT, Telegram, YouTube and more — anytime, anywhere.",
+    "features": {
+      "1": "Unblock YouTube, Google, Facebook, Instagram, Twitter, and more",
+      "2": "Full support for iOS, macOS, Android, Windows, routers, and Linux",
+      "3": "38 server clusters worldwide — connect from anywhere",
+      "4": "24×7 human support via dedicated lines"
+    },
+    "buy": {
+      "title": "Choose a plan"
+    },
+    "account": {
+      "title": "Create your account",
+      "tips": "Your account is your credential on this site. Check your subscription status, data usage, and orders anytime.",
+      "password": {
+        "button": "Use a custom password",
+        "tips": "A random password is used by default. After payment, your account and password will be emailed to you. Click “Use custom password” if you prefer your own."
+      }
+    },
+    "order": {
+      "title": "Confirm your order and pay",
+      "captcha": {
+        "title": "Please complete the CAPTCHA",
+        "placeholder": "Enter the code",
+        "refresh": "Refresh code",
+        "submit": "Submit code"
+      },
+      "coupon": {
+        "button": "Have a coupon? Enter it",
+        "title": "Verify coupon",
+        "emptyPlan": "Please select a plan"
+      },
+      "message": {
+        "emptyEmail": "Please enter your email",
+        "emptyPassword": "Please enter your password",
+        "emptyPlan": "Please select a plan",
+        "emptyPayment": "Please select a payment method",
+        "emptyCaptcha": "Please enter the code"
+      }
+    }
+  }
+}

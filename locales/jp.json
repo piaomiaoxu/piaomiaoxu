@@ -1,0 +1,903 @@
+{
+  "auth": {
+    "features": {
+      "first": {
+        "description": "Piaomiaoxu は高速なフル中継専用線で接続し、安定したネットワーク・高速通信・ミリ秒レベルの応答を実現します。",
+        "title": "高速フル中継専用線接続"
+      },
+      "second": {
+        "description": "OpenAI ChatGPT、Google Bard、Middlebury など各種 AI サービスへ無制限アクセス。インテリジェント加速に対応。",
+        "title": "AI インテリジェント加速"
+      },
+      "third": {
+        "description": "Netflix、YouTube、Hulu、BBC iPlayer、Amazon Prime Video などのストリーミングを解放。",
+        "title": "ストリーミング解放"
+      }
+    },
+    "logout": "ログアウト",
+    "message": {
+      "LoggedIn": "ログイン済み",
+      "loginPlease": "まずはログインしてください"
+    },
+    "title": "ここから世界へつながる 👏\nPiaomiaoxu — グローバル加速を体験"
+  },
+  "bill": {
+    "balance": "残高で支払う",
+    "discount": "既存プランの相殺",
+    "discountTips": "現在のプランが新規購入プランの料金に充当されます。差額は精算され、返金はアカウント残高へ入金されます。",
+    "handlingFee": "手数料",
+    "original": "通常価格",
+    "payButton": "今すぐ支払う",
+    "payIconText": "安全なお支払い",
+    "payment": "お支払い方法",
+    "preferential": "割引",
+    "realPrice": "お支払い金額",
+    "title": "支払い"
+  },
+  "client": {
+    "android": {
+      "description": "Huawei / Xiaomi / OPPO を含む各種 Android 端末に対応",
+      "title": "Android クライアント"
+    },
+    "btn": "今すぐダウンロード",
+    "homePage": {
+      "description": "自社開発クライアント。Windows・macOS・iOS・Android など主要デバイスを幅広くサポート。",
+      "title": "全端末対応\n下のアイコンからダウンロード"
+    },
+    "ios": {
+      "description": "iPhone / iPad 全機種対応",
+      "title": "iOS クライアント"
+    },
+    "knowledgeAll": "すべてのチュートリアル",
+    "knowledgePage": "クライアントチュートリアル",
+    "mac": {
+      "description": "Intel / Apple Silicon 対応",
+      "title": "macOS クライアント"
+    },
+    "windows": {
+      "description": "32 / 64 ビット対応",
+      "title": "Windows クライアント"
+    }
+  },
+  "coupon": {
+    "button": "クーポンを検証",
+    "comment": "最新の割引情報は公式 Telegram チャンネルで配信中",
+    "placeholder": "👋 クーポンがありますか？ こちらに入力（なければ空欄でOK）",
+    "title": "クーポン",
+    "message": {
+      "empty": "クーポンを入力してください",
+      "invalid": "無効なクーポンです",
+      "mismatch": "この請求サイクルでは使えません。サイクルを変更して再度検証してください。",
+      "success": "クーポンを適用しました"
+    }
+  },
+  "couponExchange": {
+    "checkButton": "CDKEY を検証",
+    "exchangeButton": "プランを引き換え",
+    "menu": "CDKEY 引き換え",
+    "message": {
+      "empty": "CDKEY を入力してください",
+      "error": "引き換えに失敗しました",
+      "incorrectType": "この CDKEY はプランに引き換えできません",
+      "notPeriod": "この CDKEY には請求サイクルが含まれていません",
+      "notPlan": "この CDKEY にはプランが含まれていません",
+      "success": "{plan} の引き換えに成功しました"
+    },
+    "placeholder": "CDKEY 引き換えコードを入力",
+    "title": "CDKEY"
+  },
+  "currency": {
+    "symbol": "¥",
+    "unit": "元"
+  },
+  "footer": {
+    "copyRight": "© 2025 Piaomiaoxu All Rights Reserved",
+    "links": {
+      "1": {
+        "text": "予備サイト",
+        "url": "https://piaomiaoxu.github.io"
+      },
+      "2": {
+        "text": "Telegram チャンネルに参加",
+        "url": "https://t.me/pmxu_notice"
+      },
+      "3": {
+        "text": "Telegram グループに参加",
+        "url": "https://t.me/piaomiaoxu"
+      }
+    }
+  },
+  "giftcard": {
+    "button": "今すぐ引き換え",
+    "menu": "ギフトカード引き換え",
+    "message": {
+      "balance": "引き換え成功。アカウントに {balance} 元を入金しました",
+      "empty": "ギフトカードコードを入力してください",
+      "error": "ギフトカードの引き換えに失敗しました",
+      "plan": "引き換え成功。新しいサブスクリプション（{time} 日）が追加されました",
+      "reset": "引き換え成功。サブスクリプションの転送量をリセットしました",
+      "time": "引き換え成功。サブスクリプション期間を {time} 日延長しました",
+      "traffic": "引き換え成功。サブスクリプション転送量を {traffic} GB 追加しました"
+    },
+    "placeholder": "ギフトカードコードを入力",
+    "title": "ギフトカード"
+  },
+  "home": {
+    "matrix": {
+      "description": "主要な動画サイトをカバーし全面解放。ChatGPT・Telegram・YouTube など世界のアプリにいつでもどこでも自由にアクセス。",
+      "title": "ストリーミング全面解放\nグローバルアプリへ無制限アクセス"
+    },
+    "nodes": {
+      "country": {
+        "cn-hk": "中国香港",
+        "ca": "カナダ",
+        "de": "ドイツ",
+        "in": "インド",
+        "en": "イングランド",
+        "us": "アメリカ合衆国",
+        "kr": "韓国",
+        "kp": "北朝鮮",
+        "jp": "日本",
+        "aq": "南極",
+        "sg": "シンガポール",
+        "tw": "中国台湾",
+        "th": "タイ",
+        "vn": "ベトナム",
+        "my": "マレーシア",
+        "ph": "フィリピン",
+        "id": "インドネシア",
+        "tr": "トルコ",
+        "ru": "ロシア",
+        "fr": "フランス",
+        "es": "スペイン",
+        "it": "イタリア",
+        "br": "ブラジル",
+        "mx": "メキシコ",
+        "ar": "アルゼンチン",
+        "au": "オーストラリア",
+        "nz": "ニュージーランド",
+        "za": "南アフリカ",
+        "eg": "エジプト",
+        "il": "イスラエル",
+        "ae": "アラブ首長国連邦",
+        "fi": "フィンランド",
+        "se": "スウェーデン",
+        "dk": "デンマーク",
+        "nl": "オランダ",
+        "be": "ベルギー",
+        "no": "ノルウェー",
+        "rs": "セルビア",
+        "rw": "ルワンダ",
+        "sa": "サウジアラビア",
+        "sb": "ソロモン諸島",
+        "sc": "セーシェル",
+        "sd": "スーダン",
+        "sh": "セントヘレナ",
+        "si": "スロベニア",
+        "sk": "スロバキア",
+        "sl": "シエラレオネ",
+        "sm": "サンマリノ",
+        "sn": "セネガル",
+        "so": "ソマリア",
+        "sr": "スリナム",
+        "ss": "南スーダン",
+        "su": "ソビエト連邦",
+        "sv": "エルサルバドル",
+        "sx": "シント・マールテン（オランダ領）",
+        "sy": "シリア",
+        "sz": "エスワティニ",
+        "td": "チャド",
+        "tg": "トーゴ",
+        "tj": "タジキスタン",
+        "tk": "トケラウ",
+        "tl": "東ティモール",
+        "tm": "トルクメニスタン",
+        "tn": "チュニジア",
+        "to": "トンガ",
+        "tv": "ツバル",
+        "tz": "タンザニア",
+        "ua": "ウクライナ",
+        "ug": "ウガンダ",
+        "uk": "英国",
+        "uy": "ウルグアイ",
+        "uz": "ウズベキスタン",
+        "va": "バチカン市国",
+        "ve": "ベネズエラ",
+        "vu": "バヌアツ",
+        "ws": "サモア",
+        "xk": "コソボ",
+        "ye": "イエメン",
+        "yt": "マヨット",
+        "yu": "ユーゴスラビア",
+        "zm": "ザンビア",
+        "zw": "ジンバブエ"
+      },
+      "description": "世界中に 1,000 台以上の高速サーバー。いつでもどこでも高速で安定した接続を提供します。",
+      "title": "グローバルノード — 高速・安定接続"
+    },
+    "poster": {
+      "button": "今すぐ体験",
+      "description": "世界中の数百のコンテンツプロバイダーと相互接続。単一回線 2000Mbps まで対応。",
+      "features": {
+        "1": "ストリーミング解放",
+        "2": "フル中継ノード",
+        "3": "全端末対応",
+        "4": "トンネル暗号化",
+        "5": "常時接続",
+        "6": "専用線加速"
+      },
+      "title": "Piaomiaoxu\n制限なしのグローバル加速"
+    },
+    "privacy": {
+      "description": "フル中継ノードとトンネル暗号化でプライバシーを保護。安全な暗号化で漏えいを防止します。",
+      "steps": {
+        "node": "グローバル高防御ノード",
+        "safe": "トンネル暗号化",
+        "target": "海外サービス",
+        "transfer": "高速中継",
+        "user": "お使いのデバイス"
+      },
+      "title": "プライバシー保護と安全な暗号化"
+    },
+    "service": {
+      "button": {
+        "text": "サポートに連絡",
+        "url": "https://t.me/piaomiaoxu"
+      },
+      "description": "複数の連絡手段をご用意。ネットワークエンジニアが 24 時間待機し、迅速に対応する VIP サポートを提供します。",
+      "title": "24×7 超高速サポート"
+    },
+    "shop": {
+      "button": "今すぐ購入",
+      "description": "グローバル IEPL 専用ノード。月／季／年のサブスクリプションでさらにお得に。",
+      "plans": {
+        "cycle": {
+          "1": {
+            "features": {
+              "ad": "季払いで 5 元お得",
+              "list": "転送量：月 200GB（毎月リセット）\nデバイス：台数無制限\n帯域：最大 50Mbps\n回線：高速ノード\nノード：32 の国／地域",
+              "title": "プラン特長"
+            },
+            "name": "Basis 高速プラン",
+            "price": "10",
+            "priceTime": "月",
+            "sid": "2"
+          },
+          "2": {
+            "features": {
+              "ad": "季払いで 6 元お得",
+              "list": "転送量：月 600GB（毎月リセット）\nデバイス：台数無制限\n帯域：最大 100Mbps\n回線：IEPL 専用線 + リレー・トンネル\nノード：65 の国／地域",
+              "title": "プラン特長"
+            },
+            "name": "Standard プロプラン",
+            "price": "20",
+            "priceTime": "月",
+            "sid": "5"
+          },
+          "3": {
+            "features": {
+              "ad": "季払いで 6 元お得",
+              "list": "転送量：月 999GB（毎月リセット）\nデバイス：台数無制限\n帯域：最大 200Mbps\n回線：IEPL 専用線 + リレー・トンネル + 企業専用線\nノード：108 の国／地域\nストリーミング解放",
+              "title": "プラン特長"
+            },
+            "name": "Premium フラッグシップ",
+            "price": "35",
+            "priceTime": "月",
+            "sid": "6"
+          }
+        },
+        "flow": {
+          "1": {
+            "features": {
+              "ad": "有効期限なしのデータパック",
+              "list": "転送量：永久 200GB（使い切り）\nデバイス：台数無制限\n帯域：最大 100Mbps\n回線：IEPL 専用線 + リレー・トンネル + 企業専用線\nノード：108 の国／地域",
+              "title": "プラン特長"
+            },
+            "name": "Rocket 200GB",
+            "price": "60",
+            "priceTime": "永久",
+            "sid": "28"
+          },
+          "2": {
+            "features": {
+              "ad": "有効期限なしのデータパック",
+              "list": "転送量：永久 600GB（使い切り）\nデバイス：台数無制限\n帯域：最大 200Mbps\n回線：IEPL 専用線 + リレー・トンネル + 企業専用線\nノード：108 の国／地域",
+              "title": "プラン特長"
+            },
+            "name": "Rocket 600GB",
+            "price": "99",
+            "priceTime": "永久",
+            "sid": "29"
+          },
+          "3": {
+            "features": {
+              "ad": "有効期限なしのデータパック",
+              "list": "転送量：永久 900GB（使い切り）\nデバイス：台数無制限\n帯域：最大 300Mbps\n回線：IEPL 専用線 + リレー・トンネル + 企業専用線\nノード：108 の国／地域",
+              "title": "プラン特長"
+            },
+            "name": "Rocket 900GB",
+            "price": "169",
+            "priceTime": "永久",
+            "sid": "30"
+          }
+        },
+        "switch": {
+          "cycle": "サブスクリプション",
+          "flow": "従量課金"
+        }
+      },
+      "title": "プランを購入してグローバル加速を体験"
+    }
+  },
+  "invite": {
+    "banner": {
+      "button": "今すぐ招待",
+      "description": "今すぐ稼げる高額コミッション。出金または支払いに利用可能。",
+      "title": "友だちを招待\n高額コミッションを獲得"
+    },
+    "codeList": {
+      "button": "招待コードを生成",
+      "copy": "招待リンクをコピー",
+      "empty": "招待コードはまだありません",
+      "item": "招待コード",
+      "tips": "招待リンクをコピーして友だちに共有。リンク経由で登録されるとコミッションを獲得できます。",
+      "title": "招待コード管理"
+    },
+    "message": {
+      "codeCopySuccess": "招待リンクをコピーしました",
+      "codeCreateSuccess": "招待コードを作成しました"
+    },
+    "recordList": {
+      "commission": "コミッション",
+      "createdTime": "作成日時",
+      "empty": "コミッション履歴はありません",
+      "orderAmount": "注文金額",
+      "title": "コミッション履歴"
+    },
+    "wallet": {
+      "button": {
+        "transfer": "振替",
+        "withdraw": "出金"
+      },
+      "confirm": "確認中のコミッション",
+      "description": "現在のコミッション残高",
+      "people": "招待人数",
+      "proportion": "コミッション率",
+      "title": "招待コミッション",
+      "total": "累計コミッション",
+      "transfer": {
+        "balance": "振替額",
+        "error": {
+          "empty": "振替額は 0 より大きい必要があります"
+        },
+        "max": "振替上限額",
+        "submit": "今すぐ振替",
+        "success": "コミッションを残高へ振替しました",
+        "title": "コミッション振替"
+      },
+      "withdraw": {
+        "account": "出金アカウント",
+        "description": "出金すると現在のコミッション残高はゼロになります。着金は 1～3 営業日です。",
+        "method": "出金方法",
+        "submit": "今すぐ出金",
+        "success": "出金申請を送信しました",
+        "title": "コミッション出金"
+      }
+    }
+  },
+  "login": {
+    "description": "世界をカバーする高速ネットワーク",
+    "email": {
+      "placeholder": "メールアドレスを入力",
+      "rules": {
+        "required": "有効なメールアドレスを入力してください"
+      }
+    },
+    "password": {
+      "placeholder": "パスワードを入力",
+      "rules": {
+        "min": "8 文字以上で入力してください",
+        "required": "パスワードを入力してください"
+      }
+    },
+    "register": "アカウント未作成の方はこちら",
+    "remember": "ログイン情報を保存",
+    "reset": "パスワードをお忘れですか？",
+    "submit": "ログイン",
+    "success": "ログインしました",
+    "title": "ログイン — Piaomiaoxu"
+  },
+  "node": {
+    "banner": {
+      "button": "サポートに連絡",
+      "title": "希望のノードが見つかりませんか？下のボタンからカスタム相談"
+    },
+    "check": "最近のチェック",
+    "empty": "利用可能なノードがありません",
+    "rate": "倍率",
+    "ss": "SS ノードリンクをコピー"
+  },
+  "notice": {
+    "clickText": "クリックして詳細を見る",
+    "coupon": {
+      "btnText": "更新用クーポンを取得",
+      "countText": "残り時間：",
+      "title": "お久しぶりです\n期間限定の更新割引"
+    },
+    "empty": "通知はありません",
+    "iconBox": {
+      "button": "すべての通知を見る",
+      "more": "さらに読み込む",
+      "title": "すべての通知"
+    },
+    "newUser": {
+      "btnText": "クーポンを入手して注文",
+      "countText": "終了まで：",
+      "title": "新規特典\n期間限定割引"
+    },
+    "obj": {
+      "balance": "キャッシュクーポン",
+      "balanceSuffix": "元",
+      "discount": "割引クーポン",
+      "discountSuffix": "割"
+    },
+    "special": {
+      "btnText": "クーポンを入手して注文",
+      "countText": "終了まで：",
+      "title": "ホリデー特価\n期間限定割引"
+    },
+    "top": "重要なお知らせ"
+  },
+  "order": {
+    "button": {
+      "cancel": "注文をキャンセル",
+      "detail": "詳細を見る"
+    },
+    "deposit": "チャージ",
+    "detail": {
+      "createdTime": "注文日時",
+      "message": {
+        "cancelError": "注文のキャンセルに失敗しました",
+        "cancelSuccess": "注文をキャンセルしました",
+        "copyError": "支払いアドレスのコピーに失敗しました",
+        "copySuccess": "支払いアドレスをコピーしました"
+      },
+      "qrcodeTips": "WeChat / Alipay を開いてコードをスキャンしてお支払いください",
+      "payCopy": "支払いアドレスをコピー",
+      "payTips": "スキャンまたは表示された支払いページで決済してください。自動遷移しない場合は、上記アドレスを手動で開いてください。決済中の注文はキャンセルしないでください（重複決済や状態反映不可の原因となります）。",
+      "payUrl": "支払いアドレス",
+      "payWaiting": "お支払い完了を待機中",
+      "planInfo": "プラン",
+      "title": "注文詳細",
+      "tradeNo": "注文番号"
+    },
+    "list": {
+      "action": "操作",
+      "amount": "金額",
+      "empty": "注文履歴はありません",
+      "number": "#",
+      "order": "注文情報",
+      "status": "ステータス"
+    },
+    "message": {
+      "cancelSuccess": "注文をキャンセルしました",
+      "copyPayUrlError": "支払いアドレスのコピーに失敗しました",
+      "copyPayUrlSuccess": "支払いアドレスをコピーしました"
+    },
+    "payPending": {
+      "copyPayUrl": "支払いリンクをコピー",
+      "linkButton": "支払いページへ進む",
+      "tips": "決済処理中の注文はキャンセルしないでください（重複決済や状態反映不可を防止）。",
+      "title": "未払いの注文があります",
+      "url": "支払いアドレス"
+    },
+    "status": {
+      "cancelled": "キャンセル",
+      "completed": "完了",
+      "discounted": "相殺済み",
+      "paid": "開通処理中",
+      "pending": "未払い"
+    },
+    "title": "注文"
+  },
+  "page": {
+    "auth": "ログイン／登録",
+    "base": {
+      "dashboard": "マイパネル",
+      "knowledge": "使い方ガイド",
+      "label": "基本"
+    },
+    "commercial": {
+      "invite": "招待",
+      "label": "財務",
+      "order": "注文一覧"
+    },
+    "download": "ダウンロード",
+    "home": "ホーム",
+    "menus": {
+      "all": "すべてのメニュー",
+      "close": "メニューを閉じる"
+    },
+    "person": {
+      "label": "個人",
+      "profile": "アカウント設定",
+      "ticket": "サポートチケット",
+      "traffic": "転送量履歴"
+    },
+    "subscribe": {
+      "label": "サブスクリプション",
+      "node": "ノード状態",
+      "shop": "プランを購入"
+    }
+  },
+  "plan": {
+    "device": "デバイス数",
+    "deviceUnit": "台",
+    "name": "プラン名",
+    "period": "課金期間",
+    "periodList": {
+      "half_year_price": "半年",
+      "month_price": "月払い",
+      "onetime_price": "買い切り",
+      "quarter_price": "季払い",
+      "reset_price": "リセットパック",
+      "three_year_price": "3年",
+      "two_year_price": "2年",
+      "year_price": "年払い"
+    },
+    "periodUnit": {
+      "half_year_price": "半年",
+      "month_price": "月",
+      "onetime_price": "買い切り",
+      "quarter_price": "季",
+      "reset_price": "リセットパック",
+      "three_year_price": "3年",
+      "two_year_price": "2年",
+      "year_price": "年"
+    },
+    "speed": "帯域",
+    "speedUnLimit": "速度制限なし",
+    "traffic": "プラン転送量"
+  },
+  "profile": {
+    "wallet": {
+      "balance": {
+        "account": "アカウント残高",
+        "invite": "コミッション残高"
+      },
+      "button": "チャージ",
+      "description": "ウォレット残高とコミッション残高が含まれます",
+      "recharge": {
+        "balance": "チャージ金額",
+        "newLabel": "チャージ後の残高",
+        "oldLabel": "現在の残高",
+        "submit": "今すぐチャージ",
+        "title": "残高チャージ"
+      },
+      "title": "マイウォレット"
+    }
+  },
+  "register": {
+    "code": {
+      "button": "認証コードを送信",
+      "placeholder": "メール認証コードを入力"
+    },
+    "description": "ここから世界へつながる",
+    "email": {
+      "placeholder": "メールアドレスを入力",
+      "rules": {
+        "required": "有効なメールアドレスを入力してください"
+      }
+    },
+    "invite": {
+      "placeholder": "招待コードを入力",
+      "rules": {
+        "required": "招待コードは必須です"
+      }
+    },
+    "login": "すでにアカウントがありますか？ ログイン",
+    "password": {
+      "placeholder": "ログイン用パスワードを入力",
+      "rules": {
+        "min": "8 文字以上で入力してください",
+        "required": "パスワードを入力してください"
+      }
+    },
+    "password2": {
+      "placeholder": "パスワードをもう一度入力",
+      "rules": {
+        "min": "8 文字以上で入力してください",
+        "required": "もう一度パスワードを入力してください",
+        "same": "パスワードが一致しません"
+      }
+    },
+    "submit": "登録",
+    "success": "登録が完了しました",
+    "title": "登録 — Piaomiaoxu"
+  },
+  "reset": {
+    "changePwdByEmail": "パスワード変更（メール認証）",
+    "changePwdByOldPwd": "パスワード変更（旧パスワード）",
+    "code": {
+      "button": "認証コードを送信",
+      "label": "メール認証コード",
+      "placeholder": "メール認証コードを入力",
+      "success": "認証コードをメールに送信しました"
+    },
+    "description": "ログインパスワードを再設定",
+    "email": {
+      "placeholder": "メールアドレスを入力",
+      "rules": {
+        "required": "有効なメールアドレスを入力してください"
+      }
+    },
+    "login": "ログインに戻る",
+    "password": {
+      "label": "新しいパスワード",
+      "placeholder": "新しいログインパスワードを入力",
+      "rules": {
+        "min": "8 文字以上で入力してください",
+        "required": "パスワードを入力してください"
+      }
+    },
+    "passwordConfirm": {
+      "label": "新しいパスワード（確認）",
+      "placeholder": "もう一度新しいパスワードを入力",
+      "rules": {
+        "min": "8 文字以上で入力してください",
+        "required": "もう一度新しいパスワードを入力してください",
+        "same": "パスワードが一致しません"
+      }
+    },
+    "passwordOld": {
+      "label": "現在のパスワード",
+      "placeholder": "現在のログインパスワードを入力",
+      "rules": {
+        "min": "8 文字以上で入力してください",
+        "required": "パスワードを入力してください"
+      }
+    },
+    "submit": "パスワードをリセット",
+    "success": "パスワードを再設定しました",
+    "title": "パスワード再設定"
+  },
+  "shop": {
+    "period": "支払いサイクル",
+    "confirm": {
+      "description": "注文内容をご確認ください。支払い方法により手数料が異なる場合があります。",
+      "title": "注文確認",
+      "override": {
+        "title": "プランを変更しますか？",
+        "content": "現在のプランは新しいプランに置き換えられます。",
+        "okText": "確認",
+        "cancelText": "キャンセル"
+      }
+    },
+    "custom": {
+      "button": "サポートに連絡",
+      "title": "最適なプランが見つからない？ 下のボタンからカスタム相談"
+    },
+    "cycle": {
+      "description": "IEPL 専用ノードを月／季／年単位でサブスク。お得にご利用いただけます。",
+      "features": {
+        "more": "特長をもっと見る",
+        "title": "Features"
+      },
+      "month": "月払い",
+      "switchSuffix": "価格",
+      "tag": "🔥 人気",
+      "title": "サブスクリプション",
+      "year": "年払い",
+      "yearByMonth": "年払い {discount} 折、1か月あたり {monthPrice} 元",
+      "yearByPrice": "年払いで {discountSubtract} 元お得"
+    },
+    "empty": "購入可能なプランはありません",
+    "flow": {
+      "button": "今すぐ購入",
+      "description": "IEPL 専用ノードの従量課金。期限なし、使った分だけお支払い。",
+      "features": {
+        "more": "特長をもっと見る",
+        "title": "プラン特長"
+      },
+      "tag": "🔥 おすすめ",
+      "tips": "有効期限なしデータパック",
+      "title": "従量課金"
+    },
+    "hasToPayOrder": "未払いの注文があります",
+    "routerButton": "今すぐサブスクライブ"
+  },
+  "subscribe": {
+    "empty": "Free — サブスクリプションなし",
+    "expire": {
+      "empty": "無期限",
+      "expired": "プランの有効期限が切れています",
+      "expireSoon": "残り",
+      "expireUnit": "日",
+      "title": "有効期限"
+    },
+    "message": {
+      "linkCopySuccess": "サブスクリプションリンクをコピーしました"
+    },
+    "renewal": {
+      "close": "自動更新はオフです",
+      "loading": "自動更新を切り替え中…",
+      "open": "自動更新はオンです",
+      "title": "自動更新"
+    },
+    "reset": {
+      "description": "{resetDay} 日後にリセット",
+      "descriptionForToday": "本日リセット済み",
+      "empty": "リセット不要",
+      "title": "転送量リセット日"
+    },
+    "shortcut": {
+      "apps": {
+        "clash": {
+          "comment": "サードパーティ：Clash for Windows / Mac / Android / Linux",
+          "title": "Clash"
+        },
+        "export": "インポート先",
+        "quantumult": {
+          "comment": "サードパーティ：Quantumult / Quantumult X（iOS / iPhone / iPad / Mac / Android）",
+          "title": "Quantumult"
+        },
+        "shadowrocket": {
+          "comment": "サードパーティ：Shadowrocket（iOS / iPhone / iPad / Mac）",
+          "title": "Shadowrocket"
+        },
+        "singbox": {
+          "comment": "サードパーティ：SingBox（iOS / iPhone / iPad / Mac）",
+          "title": "SingBox"
+        },
+        "surfboard": {
+          "comment": "サードパーティ：Surfboard for Android",
+          "title": "Surfboard"
+        },
+        "surge": {
+          "comment": "サードパーティ：Surge for Windows / Mac / Android",
+          "title": "Surge"
+        },
+        "title": "サードパーティクライアントへかんたんインポート"
+      },
+      "link": {
+        "button": "サブスクリプションリンクをコピー",
+        "title": "サブスクリプションリンク"
+      },
+      "qrcode": {
+        "tips": "QR をスキャンして\nShadowrocket / Clash などへインポート"
+      },
+      "reset": {
+        "button": "サブスクリプションをリセット",
+        "modal": {
+          "cancel": "キャンセル",
+          "content": "サブスクリプション URL や情報が漏えいした場合に実行してください。リセット後は UUID とリンクが変更され、再インポートが必要になります。",
+          "ok": "確認",
+          "success": "サブスクリプションリンクをリセットしました",
+          "title": "サブスクリプションリンクをリセットしますか？"
+        },
+        "success": "リセットしました"
+      },
+      "title": "サブスクリプションセンター"
+    },
+    "title": "マイサブスクリプション"
+  },
+  "ticket": {
+    "create": "チケットを作成",
+    "form": {
+      "cancelText": "キャンセル",
+      "level": "優先度",
+      "message": "内容",
+      "okText": "送信",
+      "subject": "件名",
+      "tips": {
+        "empty": "必要項目をすべて入力してください",
+        "loading": "送信中…",
+        "success": "送信しました"
+      },
+      "title": "新規チケットを作成"
+    },
+    "level": {
+      "0": "通常",
+      "1": "重要",
+      "2": "緊急"
+    },
+    "status": {
+      "0": "返信待ち",
+      "1": "返信済み",
+      "2": "クローズ"
+    },
+    "table": {
+      "action": "操作",
+      "close": "クローズ",
+      "createdAt": "作成日時",
+      "empty": "チケットはまだありません",
+      "level": "優先度",
+      "see": "表示",
+      "status": "ステータス",
+      "subject": "件名",
+      "updatedAt": "最終返信"
+    },
+    "talk": {
+      "admin": "管理者",
+      "me": "自分",
+      "placeholder": "入力して返信",
+      "submit": "送信"
+    },
+    "title": "お困りの際はチケットからご連絡ください"
+  },
+  "traffic": {
+    "description": {
+      "cycle": "このサブスクリプションは月額課金です。{resetDay} 日後に転送量をリセット、{expireTime} に有効期限を迎えます。",
+      "oneTime": "このサブスクリプションは従量課金です。転送量は有効期限なしで、使い切るまでご利用いただけます。"
+    },
+    "remaining": "残り転送量",
+    "statistics": "サブスクリプション転送量統計",
+    "table": {
+      "date": "日付",
+      "downloadUsage": "ダウンロード合計",
+      "empty": "記録がありません",
+      "inner": {
+        "downloadUsage": "ダウンロード",
+        "rate": "課金倍率",
+        "rateUnit": "倍",
+        "total": "合計",
+        "uploadUsage": "アップロード"
+      },
+      "total": "合計",
+      "uploadUsage": "アップロード合計"
+    },
+    "total": "総転送量",
+    "used": "使用済み"
+  },
+  "welcomeCard": {
+    "button": {
+      "default": "今すぐプランを購入",
+      "renewal": "今すぐ更新",
+      "reset": "今すぐリセット"
+    },
+    "hiname": "Halo, {name}",
+    "title": "今この瞬間からグローバル加速\n世界とつながる 👋"
+  },
+  "quick": {
+    "title": "大陸ユーザー向けに最適化した高速ネットワーク加速",
+    "description": "世界中の多数コンテンツプロバイダーと相互接続。主要動画サイトを解放し、ChatGPT・Telegram・YouTube などのアプリへ、いつでもどこでも自由にアクセス。",
+    "features": {
+      "1": "YouTube・Google・Facebook・Instagram・Twitter などを解禁",
+      "2": "iOS / macOS / Android / Windows / ルーター / Linux をフルサポート",
+      "3": "38 のサーバークラスターを世界展開。どこからでも接続可能",
+      "4": "24×7 の有人専用回線サポートで即時対応"
+    },
+    "buy": {
+      "title": "プランを選択"
+    },
+    "account": {
+      "title": "アカウントを作成",
+      "tips": "このサイトの利用資格情報となります。サブスクリプション状態・転送量・注文履歴などをいつでも確認可能。",
+      "password": {
+        "button": "カスタムパスワードを使う",
+        "tips": "初期はランダムパスワードです。決済後、アカウント情報をメールでお送りします。任意のパスワードを使う場合は「カスタムパスワードを使う」を選択してください。"
+      }
+    },
+    "order": {
+      "title": "注文内容を確認してお支払い",
+      "captcha": {
+        "title": "認証（CAPTCHA）を完了してください",
+        "placeholder": "認証コードを入力",
+        "refresh": "コードを更新",
+        "submit": "コードを送信"
+      },
+      "coupon": {
+        "button": "クーポンはありますか？ クリックして入力",
+        "title": "クーポン検証",
+        "emptyPlan": "プランを選択してください"
+      },
+      "message": {
+        "emptyEmail": "メールアドレスを入力してください",
+        "emptyPassword": "パスワードを入力してください",
+        "emptyPlan": "プランを選択してください",
+        "emptyPayment": "お支払い方法を選択してください",
+        "emptyCaptcha": "認証コードを入力してください"
+      }
+    }
+  }
+}

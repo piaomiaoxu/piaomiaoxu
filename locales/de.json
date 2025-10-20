@@ -1,0 +1,903 @@
+{
+  "auth": {
+    "features": {
+      "first": {
+        "description": "Piaomiaoxu nutzt eine Hochgeschwindigkeits-Full-Transit-Standleitung und gewährleistet so ein stabiles Netzwerk, hohe Geschwindigkeit und Antwortzeiten im Millisekundenbereich.",
+        "title": "Hochgeschwindigkeits-Full-Transit-Standleitung"
+      },
+      "second": {
+        "description": "Unbegrenzter Zugriff auf OpenAI ChatGPT, Google Bard, Middlebury u. a. – mit intelligenter Beschleunigung.",
+        "title": "KI-intelligente Beschleunigung"
+      },
+      "third": {
+        "description": "Unterstützt das Entsperren von Streaming-Diensten wie Netflix, YouTube, Hulu, BBC iPlayer, Amazon Prime Video u. a.",
+        "title": "Streaming entsperren"
+      }
+    },
+    "logout": "Abmelden",
+    "message": {
+      "LoggedIn": "Angemeldet",
+      "loginPlease": "Bitte melden Sie sich zuerst an"
+    },
+    "title": "Von hier aus die Welt verbinden 👏\nPiaomiaoxu – Globale Netzwerkbeschleunigung genießen"
+  },
+  "bill": {
+    "balance": "Mit Guthaben zahlen",
+    "discount": "Rabatt auf bestehende Pakete",
+    "discountTips": "Der Preis des bestehenden Pakets wird auf das vorbestellte Paket angerechnet. Rückerstattungen werden mit dem Ausgleich verrechnet; Überschüsse gehen zurück auf das Kontoguthaben.",
+    "handlingFee": "Bearbeitungsgebühr",
+    "original": "Originalpreis",
+    "payButton": "Jetzt bezahlen",
+    "payIconText": "Sichere Zahlung",
+    "payment": "Zahlungsart",
+    "preferential": "Rabatt",
+    "realPrice": "Zu zahlender Betrag",
+    "title": "Rechnung bezahlen"
+  },
+  "client": {
+    "android": {
+      "description": "Alle Android-Geräte, z. B. Huawei / Xiaomi / OPPO",
+      "title": "Android-Client"
+    },
+    "btn": "Jetzt herunterladen",
+    "homePage": {
+      "description": "Eigenentwickelter Client – unterstützt Windows, macOS, iOS, Android u. a. und deckt alle Endgeräte ab.",
+      "title": "Support für alle Endgeräte\nZum Download auf ein Icon unten klicken"
+    },
+    "ios": {
+      "description": "Kompatibel mit iPhone / iPad",
+      "title": "iOS-Client"
+    },
+    "knowledgeAll": "Alle Anleitungen",
+    "knowledgePage": "Client-Tutorial",
+    "mac": {
+      "description": "Für Intel & Apple Silicon",
+      "title": "macOS-Client"
+    },
+    "windows": {
+      "description": "32/64-Bit, komplette Serie",
+      "title": "Windows-Client"
+    }
+  },
+  "coupon": {
+    "button": "Gutschein prüfen",
+    "comment": "Folgen Sie dem offiziellen Telegram-Kanal für aktuelle Rabattinfos",
+    "placeholder": "👋 Haben Sie einen Gutschein? Hier eingeben – sonst einfach ignorieren",
+    "title": "Gutscheine",
+    "message": {
+      "empty": "Bitte Gutschein eingeben",
+      "invalid": "Ungültiger Gutschein",
+      "mismatch": "Der Gutschein gilt nicht für diesen Zeitraum. Bitte Zeitraum wechseln und erneut prüfen.",
+      "success": "Gutschein erfolgreich verifiziert"
+    }
+  },
+  "couponExchange": {
+    "checkButton": "CDKEY prüfen",
+    "exchangeButton": "Paket einlösen",
+    "menu": "CDKEY-Einlösung",
+    "message": {
+      "empty": "Bitte CDKEY eingeben",
+      "error": "Einlösung des Rabattcodes fehlgeschlagen",
+      "incorrectType": "Dieser CDKEY kann nicht für Pakete eingelöst werden",
+      "notPeriod": "Dieser CDKEY enthält keinen Zeitraum",
+      "notPlan": "Dieser CDKEY enthält kein Paket",
+      "success": "{plan} erfolgreich eingelöst"
+    },
+    "placeholder": "CDKEY-Einlösecode eingeben",
+    "title": "CDKEY"
+  },
+  "currency": {
+    "symbol": "¥",
+    "unit": "Yuan"
+  },
+  "footer": {
+    "copyRight": "© 2025 Piaomiaoxu Alle Rechte vorbehalten",
+    "links": {
+      "1": {
+        "text": "Spiegelseite",
+        "url": "https://piaomiaoxu.github.io"
+      },
+      "2": {
+        "text": "Telegram-Kanal beitreten",
+        "url": "https://t.me/pmxu_notice"
+      },
+      "3": {
+        "text": "Telegram-Gruppe beitreten",
+        "url": "https://t.me/piaomiaoxu"
+      }
+    }
+  },
+  "giftcard": {
+    "button": "Jetzt einlösen",
+    "menu": "Geschenkkarte einlösen",
+    "message": {
+      "balance": "Erfolgreich eingelöst. Kontoguthaben erhöht um: {balance} Yuan",
+      "empty": "Bitte Einlösecode der Geschenkkarte eingeben",
+      "error": "Einlösung der Geschenkkarte fehlgeschlagen",
+      "plan": "Erfolgreich eingelöst. Neues Abo hinzugefügt, Laufzeit: {time} Tage",
+      "reset": "Erfolgreich eingelöst. Abo-Traffic wurde zurückgesetzt",
+      "time": "Erfolgreich eingelöst. Abo-Laufzeit um {time} Tage verlängert",
+      "traffic": "Erfolgreich eingelöst. Abo-Traffic erhöht um {traffic} GB"
+    },
+    "placeholder": "Code der Geschenkkarte eingeben",
+    "title": "Gift Card"
+  },
+  "home": {
+    "matrix": {
+      "description": "Deckt weltweite Video-Websites ab, alles entsperrt. Unbegrenzter Zugriff auf globale Apps wie ChatGPT, Telegram, YouTube u. a.",
+      "title": "Streaming vollständig entsperrt\nUnbegrenzter, freier Zugriff auf globale Apps"
+    },
+    "nodes": {
+      "country": {
+        "cn-hk": "Hongkong (China)",
+        "ca": "Kanada",
+        "de": "Deutschland",
+        "in": "Indien",
+        "en": "England",
+        "us": "USA",
+        "kr": "Südkorea",
+        "kp": "Nordkorea",
+        "jp": "Japan",
+        "aq": "Antarktis",
+        "sg": "Singapur",
+        "tw": "Taiwan (China)",
+        "th": "Thailand",
+        "vn": "Vietnam",
+        "my": "Malaysia",
+        "ph": "Philippinen",
+        "id": "Indonesien",
+        "tr": "Türkei",
+        "ru": "Russland",
+        "fr": "Frankreich",
+        "es": "Spanien",
+        "it": "Italien",
+        "br": "Brasilien",
+        "mx": "Mexiko",
+        "ar": "Argentinien",
+        "au": "Australien",
+        "nz": "Neuseeland",
+        "za": "Südafrika",
+        "eg": "Ägypten",
+        "il": "Israel",
+        "ae": "Vereinigte Arabische Emirate",
+        "fi": "Finnland",
+        "se": "Schweden",
+        "dk": "Dänemark",
+        "nl": "Niederlande",
+        "be": "Belgien",
+        "no": "Norwegen",
+        "rs": "Serbien",
+        "rw": "Ruanda",
+        "sa": "Saudi-Arabien",
+        "sb": "Salomonen",
+        "sc": "Seychellen",
+        "sd": "Sudan",
+        "sh": "St. Helena",
+        "si": "Slowenien",
+        "sk": "Slowakei",
+        "sl": "Sierra Leone",
+        "sm": "San Marino",
+        "sn": "Senegal",
+        "so": "Somalia",
+        "sr": "Suriname",
+        "ss": "Südsudan",
+        "su": "Sowjetunion",
+        "sv": "El Salvador",
+        "sx": "Sint Maarten (NL)",
+        "sy": "Syrien",
+        "sz": "Eswatini",
+        "td": "Tschad",
+        "tg": "Togo",
+        "tj": "Tadschikistan",
+        "tk": "Tokelau",
+        "tl": "Osttimor",
+        "tm": "Turkmenistan",
+        "tn": "Tunesien",
+        "to": "Tonga",
+        "tv": "Tuvalu",
+        "tz": "Tansania",
+        "ua": "Ukraine",
+        "ug": "Uganda",
+        "uk": "Vereinigtes Königreich",
+        "uy": "Uruguay",
+        "uz": "Usbekistan",
+        "va": "Vatikanstadt",
+        "ve": "Venezuela",
+        "vu": "Vanuatu",
+        "ws": "Samoa",
+        "xk": "Kosovo",
+        "ye": "Jemen",
+        "yt": "Mayotte",
+        "yu": "Jugoslawien",
+        "zm": "Sambia",
+        "zw": "Simbabwe"
+      },
+      "description": "1.000+ Hochgeschwindigkeits-Server weltweit – schnelle, stabile Verbindungen jederzeit und überall",
+      "title": "Globale Knoten – schnelle & stabile Verbindungen"
+    },
+    "poster": {
+      "button": "Jetzt ausprobieren",
+      "description": "Bis zu 2000 Mbps Single-Line-Zugang – verbunden mit Hunderten Content-Providern weltweit",
+      "features": {
+        "1": "Streaming entsperren",
+        "2": "Full-Transit-Knoten",
+        "3": "Alle Endgeräte unterstützt",
+        "4": "Tunnel-Verschlüsselung",
+        "5": "Dauerhafte Verbindung",
+        "6": "Standleitungs-Beschleunigung"
+      },
+      "title": "Piaomiaoxu\nUnlimitierte globale Netzwerkbeschleunigung"
+    },
+    "privacy": {
+      "description": "Full-Transit-Knoten & Tunnel-Verschlüsselung schützen Ihre Privatsphäre – sicher verschlüsselt, keine Leaks.",
+      "steps": {
+        "node": "Globale Hochschutz-Knoten",
+        "safe": "Tunnel-Verschlüsselung",
+        "target": "Overseas-Dienste",
+        "transfer": "Hochgeschwindigkeits-Transit",
+        "user": "Ihr Gerät"
+      },
+      "title": "Datenschutz & sichere Verschlüsselung"
+    },
+    "service": {
+      "button": {
+        "text": "Kundendienst kontaktieren",
+        "url": "https://t.me/piaomiaoxu"
+      },
+      "description": "Fragen? Mehrere Kontaktwege, Network Engineers 24/7 in Bereitschaft, schnelle Hilfe – jederzeit erreichbar.",
+      "title": "7×24 h superschneller Support"
+    },
+    "shop": {
+      "button": "Jetzt kaufen",
+      "description": "Globale IEPL-Standleitungs-Knoten. Monats-/Quartals-/Jahres-Abo – mehr Rabatt genießen.",
+      "plans": {
+        "cycle": {
+          "1": {
+            "features": {
+              "ad": "Bei Quartalszahlung sofort 5 ¥ sparen",
+              "list": "Traffic: 200 GB/Monat, monatlicher Reset\nGeräte: unbegrenzt\nBandbreite: 50 Mbps Limit\nLeitung: High-Speed-Knoten\nKnoten: 32 Länder/Regionen",
+              "title": "Paket-Features"
+            },
+            "name": "Basis High-Speed",
+            "price": "10",
+            "priceTime": "Monat",
+            "sid": "2"
+          },
+          "2": {
+            "features": {
+              "ad": "Bei Quartalszahlung sofort 6 ¥ sparen",
+              "list": "Traffic: 600 GB/Monat, monatlicher Reset\nGeräte: unbegrenzt\nBandbreite: 100 Mbps Limit\nLeitung: IEPL + Relay-Tunnel\nKnoten: 65 Länder/Regionen",
+              "title": "Paket-Features"
+            },
+            "name": "Standard Pro",
+            "price": "20",
+            "priceTime": "Monat",
+            "sid": "5"
+          },
+          "3": {
+            "features": {
+              "ad": "Bei Quartalszahlung sofort 6 ¥ sparen",
+              "list": "Traffic: 999 GB/Monat, monatlicher Reset\nGeräte: unbegrenzt\nBandbreite: 200 Mbps Limit\nLeitung: IEPL + Relay-Tunnel + Enterprise-Line\nKnoten: 108 Länder/Regionen\nStreaming entsperrt",
+              "title": "Paket-Features"
+            },
+            "name": "Premium Flagship",
+            "price": "35",
+            "priceTime": "Monat",
+            "sid": "6"
+          }
+        },
+        "flow": {
+          "1": {
+            "features": {
+              "ad": "Permanentes Volumenpaket",
+              "list": "Traffic: 200 GB permanent (Verbrauch = Ende)\nGeräte: unbegrenzt\nBandbreite: 100 Mbps Limit\nLeitung: IEPL + Relay-Tunnel + Enterprise-Line\nKnoten: 108 Länder/Regionen",
+              "title": "Paket-Features"
+            },
+            "name": "Rocket 200 GB",
+            "price": "60",
+            "priceTime": "permanent",
+            "sid": "28"
+          },
+          "2": {
+            "features": {
+              "ad": "Permanentes Volumenpaket",
+              "list": "Traffic: 600 GB permanent (Verbrauch = Ende)\nGeräte: unbegrenzt\nBandbreite: 200 Mbps Limit\nLeitung: IEPL + Relay-Tunnel + Enterprise-Line\nKnoten: 108 Länder/Regionen",
+              "title": "Paket-Features"
+            },
+            "name": "Rocket 600 GB",
+            "price": "99",
+            "priceTime": "permanent",
+            "sid": "29"
+          },
+          "3": {
+            "features": {
+              "ad": "Permanentes Volumenpaket",
+              "list": "Traffic: 900 GB permanent (Verbrauch = Ende)\nGeräte: unbegrenzt\nBandbreite: 300 Mbps Limit\nLeitung: IEPL + Relay-Tunnel + Enterprise-Line\nKnoten: 108 Länder/Regionen",
+              "title": "Paket-Features"
+            },
+            "name": "Rocket 900 GB",
+            "price": "169",
+            "priceTime": "permanent",
+            "sid": "30"
+          }
+        },
+        "switch": {
+          "cycle": "Periodisches Abo",
+          "flow": "Volumenbasiert zahlen"
+        }
+      },
+      "title": "Pakete kaufen und globale Beschleunigung genießen"
+    }
+  },
+  "invite": {
+    "banner": {
+      "button": "Jetzt einladen",
+      "description": "Sofort verdienen! Großzügige Provisions-Cashbacks – auszahlbar oder zum Bezahlen nutzbar.",
+      "title": "Freunde einladen\nGroßzügige Provisionen verdienen"
+    },
+    "codeList": {
+      "button": "Einladungscode erzeugen",
+      "copy": "Einladungslink kopieren",
+      "empty": "Noch keine Einladungscodes",
+      "item": "Einladungscode",
+      "tips": "Kopieren Sie den Link und teilen Sie ihn mit Freunden. Registrierungen über den Link bringen Ihnen Provision.",
+      "title": "Einladungscodes verwalten"
+    },
+    "message": {
+      "codeCopySuccess": "Einladungscode erfolgreich kopiert",
+      "codeCreateSuccess": "Einladungscode erfolgreich erstellt"
+    },
+    "recordList": {
+      "commission": "Provision",
+      "createdTime": "Erstellt am",
+      "empty": "Noch keine Provisionsaufzeichnungen",
+      "orderAmount": "Bestellbetrag",
+      "title": "Provisionshistorie"
+    },
+    "wallet": {
+      "button": {
+        "transfer": "Überweisen",
+        "withdraw": "Auszahlen"
+      },
+      "confirm": "In Bestätigung",
+      "description": "Aktueller Provisionssaldo",
+      "people": "Anzahl Einladungen",
+      "proportion": "Provisionssatz",
+      "title": "Einladungs-Provision",
+      "total": "Kumulierte Provision",
+      "transfer": {
+        "balance": "Überweisungsbetrag",
+        "error": {
+          "empty": "Betrag muss größer als 0 sein"
+        },
+        "max": "Max. überweisbarer Betrag",
+        "submit": "Jetzt überweisen",
+        "success": "Provision erfolgreich ins Guthaben übertragen",
+        "title": "Provision überweisen"
+      },
+      "withdraw": {
+        "account": "Auszahlungskonto",
+        "description": "Bei Auszahlung wird der Provisionssaldo geleert. Eingang innerhalb von 1–3 Werktagen.",
+        "method": "Auszahlungsart",
+        "submit": "Jetzt auszahlen",
+        "success": "Auszahlungsantrag erfolgreich eingereicht",
+        "title": "Provision auszahlen"
+      }
+    }
+  },
+  "login": {
+    "description": "Hochgeschwindigkeits-Netz weltweit",
+    "email": {
+      "placeholder": "E-Mail-Adresse eingeben",
+      "rules": {
+        "required": "Bitte gültige E-Mail-Adresse eingeben"
+      }
+    },
+    "password": {
+      "placeholder": "Passwort eingeben",
+      "rules": {
+        "min": "Passwort muss mindestens 8 Zeichen haben",
+        "required": "Bitte Passwort eingeben"
+      }
+    },
+    "register": "Noch kein Konto? Jetzt registrieren",
+    "remember": "Passwort merken",
+    "reset": "Passwort vergessen?",
+    "submit": "Anmelden",
+    "success": "Erfolgreich angemeldet",
+    "title": "Bei Piaomiaoxu anmelden"
+  },
+  "node": {
+    "banner": {
+      "button": "Kundendienst kontaktieren",
+      "title": "Kein passender Knoten? Klicken Sie unten für individuelle Beratung"
+    },
+    "check": "Letzte Tests",
+    "empty": "Keine Knoten verfügbar",
+    "rate": "Multiplikator",
+    "ss": "SS-Link des Knotens kopieren"
+  },
+  "notice": {
+    "clickText": "Für Details klicken",
+    "coupon": {
+      "btnText": "Klicken, um Verlängerungsgutschein zu erhalten",
+      "countText": "Verbleibende Zeit:",
+      "title": "Lange nicht gesehen\nZeitlich begrenzter Verlängerungsrabatt"
+    },
+    "empty": "Noch keine Benachrichtigungen",
+    "iconBox": {
+      "button": "Alle Benachrichtigungen anzeigen",
+      "more": "Mehr laden",
+      "title": "Alle Benachrichtigungen"
+    },
+    "newUser": {
+      "btnText": "Klicken, Gutschein holen und bestellen",
+      "countText": "Countdown:",
+      "title": "Welcome-Geschenk\nZeitlich begrenzter Rabatt"
+    },
+    "obj": {
+      "balance": "Geld-Gutscheine",
+      "balanceSuffix": "Yuan",
+      "discount": "Rabatt-Gutscheine",
+      "discountSuffix": "fach"
+    },
+    "special": {
+      "btnText": "Klicken, Gutschein holen und bestellen",
+      "countText": "Countdown:",
+      "title": "Feiertags-Special\nZeitlich begrenzter Rabatt"
+    },
+    "top": "Wichtige Mitteilung"
+  },
+  "order": {
+    "button": {
+      "cancel": "Bestellung stornieren",
+      "detail": "Details ansehen"
+    },
+    "deposit": "Aufladen",
+    "detail": {
+      "createdTime": "Bestellzeit",
+      "message": {
+        "cancelError": "Stornierung fehlgeschlagen",
+        "cancelSuccess": "Erfolgreich storniert",
+        "copyError": "Zahlungsadresse kopieren fehlgeschlagen",
+        "copySuccess": "Zahlungsadresse kopiert"
+      },
+      "qrcodeTips": "WeChat/Alipay öffnen und QR zum Bezahlen scannen",
+      "payCopy": "Zahlungsadresse kopieren",
+      "payTips": "Bitte Zahlung per QR-Scan oder auf der geöffneten Zahlungsseite abschließen. Falls keine automatische Weiterleitung erfolgt, kopieren Sie die obige Zahlungsadresse manuell. Bestellungen während der Zahlung nicht beliebig stornieren (Doppelzahlung/Statusfehler vermeiden).",
+      "payUrl": "Zahlungsadresse",
+      "payWaiting": "Warten auf Zahlung",
+      "planInfo": "Paket",
+      "title": "Bestelldetails",
+      "tradeNo": "Bestellnummer"
+    },
+    "list": {
+      "action": "Aktion",
+      "amount": "Betrag",
+      "empty": "Noch keine Bestellungen",
+      "number": "#",
+      "order": "Bestellinfo",
+      "status": "Status"
+    },
+    "message": {
+      "cancelSuccess": "Erfolgreich storniert",
+      "copyPayUrlError": "Zahlungsadresse kopieren fehlgeschlagen",
+      "copyPayUrlSuccess": "Zahlungsadresse kopiert"
+    },
+    "payPending": {
+      "copyPayUrl": "Zahlungslink kopieren",
+      "linkButton": "Zur Zahlung wechseln",
+      "tips": "Bestellungen während der Zahlung nicht stornieren – Doppelzahlung/Statusfehler vermeiden.",
+      "title": "Sie haben eine offene Zahlung",
+      "url": "Zahlungsadresse"
+    },
+    "status": {
+      "cancelled": "Storniert",
+      "completed": "Abgeschlossen",
+      "discounted": "Abgezogen",
+      "paid": "Aktivierung läuft",
+      "pending": "Ausstehend"
+    },
+    "title": "Bestellungen"
+  },
+  "page": {
+    "auth": "Login/Registrierung",
+    "base": {
+      "dashboard": "Mein Panel",
+      "knowledge": "Nutzungs-Tutorial",
+      "label": "Basis"
+    },
+    "commercial": {
+      "invite": "Meine Einladungen",
+      "label": "Finanzen",
+      "order": "Meine Bestellungen"
+    },
+    "download": "Download",
+    "home": "Startseite",
+    "menus": {
+      "all": "Alle Menüs",
+      "close": "Menü schließen"
+    },
+    "person": {
+      "label": "Persönlich",
+      "profile": "Kontoeinstellungen",
+      "ticket": "Service-Ticket",
+      "traffic": "Traffic-Protokoll"
+    },
+    "subscribe": {
+      "label": "Abo",
+      "node": "Knotenstatus",
+      "shop": "Paket kaufen"
+    }
+  },
+  "plan": {
+    "device": "Anzahl Geräte",
+    "deviceUnit": "Stk.",
+    "name": "Paketname",
+    "period": "Aboperiode",
+    "periodList": {
+      "half_year_price": "Halbjahr",
+      "month_price": "Monatlich",
+      "onetime_price": "Einmalig",
+      "quarter_price": "Quartal",
+      "reset_price": "Reset-Paket",
+      "three_year_price": "3 Jahre",
+      "two_year_price": "2 Jahre",
+      "year_price": "Jährlich"
+    },
+    "periodUnit": {
+      "half_year_price": "Halbjahr",
+      "month_price": "Monat",
+      "onetime_price": "Einmal",
+      "quarter_price": "Quartal",
+      "reset_price": "Reset-Paket",
+      "three_year_price": "3 Jahre",
+      "two_year_price": "2 Jahre",
+      "year_price": "Jahr"
+    },
+    "speed": "Bandbreite",
+    "speedUnLimit": "Ohne Limit",
+    "traffic": "Paket-Traffic"
+  },
+  "profile": {
+    "wallet": {
+      "balance": {
+        "account": "Kontoguthaben",
+        "invite": "Provisionsguthaben"
+      },
+      "button": "Aufladen",
+      "description": "Beinhaltet verfügbares Guthaben + Provisionsguthaben",
+      "recharge": {
+        "balance": "Aufladebetrag",
+        "newLabel": "Guthaben nach Aufladung",
+        "oldLabel": "Aktuelles Guthaben",
+        "submit": "Jetzt aufladen",
+        "title": "Guthaben aufladen"
+      },
+      "title": "Meine Wallet"
+    }
+  },
+  "register": {
+    "code": {
+      "button": "Bestätigungscode senden",
+      "placeholder": "E-Mail-Code eingeben"
+    },
+    "description": "Von hier aus die Welt verbinden",
+    "email": {
+      "placeholder": "E-Mail-Adresse eingeben",
+      "rules": {
+        "required": "Bitte gültige E-Mail-Adresse eingeben"
+      }
+    },
+    "invite": {
+      "placeholder": "Einladungscode eingeben",
+      "rules": {
+        "required": "Ein Einladungscode ist erforderlich"
+      }
+    },
+    "login": "Schon ein Konto? Jetzt anmelden",
+    "password": {
+      "placeholder": "Login-Passwort eingeben",
+      "rules": {
+        "min": "Mindestens 8 Zeichen",
+        "required": "Bitte Passwort eingeben"
+      }
+    },
+    "password2": {
+      "placeholder": "Login-Passwort erneut eingeben",
+      "rules": {
+        "min": "Mindestens 8 Zeichen",
+        "required": "Bitte Passwort erneut eingeben",
+        "same": "Die Passwörter stimmen nicht überein"
+      }
+    },
+    "submit": "Registrieren",
+    "success": "Erfolgreich registriert",
+    "title": "Piaomiaoxu registrieren"
+  },
+  "reset": {
+    "changePwdByEmail": "Passwort ändern (E-Mail-Verifizierung)",
+    "changePwdByOldPwd": "Passwort ändern (altes Passwort)",
+    "code": {
+      "button": "Bestätigungscode senden",
+      "label": "E-Mail-Bestätigungscode",
+      "placeholder": "E-Mail-Code eingeben",
+      "success": "Bestätigungscode wurde per E-Mail gesendet"
+    },
+    "description": "Login-Passwort zurücksetzen",
+    "email": {
+      "placeholder": "E-Mail-Adresse eingeben",
+      "rules": {
+        "required": "Bitte gültige E-Mail-Adresse eingeben"
+      }
+    },
+    "login": "Zur Anmeldung zurück",
+    "password": {
+      "label": "Neues Passwort",
+      "placeholder": "Neues Login-Passwort eingeben",
+      "rules": {
+        "min": "Mindestens 8 Zeichen",
+        "required": "Bitte Passwort eingeben"
+      }
+    },
+    "passwordConfirm": {
+      "label": "Neues Passwort bestätigen",
+      "placeholder": "Neues Login-Passwort erneut eingeben",
+      "rules": {
+        "min": "Mindestens 8 Zeichen",
+        "required": "Bitte erneut eingeben",
+        "same": "Die Passwörter stimmen nicht überein"
+      }
+    },
+    "passwordOld": {
+      "label": "Altes Passwort",
+      "placeholder": "Altes Login-Passwort eingeben",
+      "rules": {
+        "min": "Mindestens 8 Zeichen",
+        "required": "Bitte Passwort eingeben"
+      }
+    },
+    "submit": "Passwort zurücksetzen",
+    "success": "Passwort erfolgreich zurückgesetzt",
+    "title": "Passwort zurücksetzen"
+  },
+  "shop": {
+    "period": "Zahlungszyklus",
+    "confirm": {
+      "description": "Bitte Bestellinformationen prüfen – Gebühren je Zahlungsart können variieren.",
+      "title": "Bestellung bestätigen",
+      "override": {
+        "title": "Paket wirklich wechseln?",
+        "content": "Achtung: Beim Wechsel wird das aktuelle Paket durch das neue ersetzt.",
+        "okText": "OK",
+        "cancelText": "Abbrechen"
+      }
+    },
+    "custom": {
+      "button": "Kundendienst kontaktieren",
+      "title": "Kein passendes Paket? Für individuelle Pakete unten klicken"
+    },
+    "cycle": {
+      "description": "IEPL-Standleitungs-Knoten. Monats-/Quartals-/Jahres-Abo mit zusätzlichen Rabatten.",
+      "features": {
+        "more": "Mehr Features anzeigen",
+        "title": "Features"
+      },
+      "month": "Monatlich",
+      "switchSuffix": "Preis",
+      "tag": "🔥 Bestseller",
+      "title": "Periodisches Abo",
+      "year": "Jährlich",
+      "yearByMonth": "Jährlich {discount} günstiger – nur {monthPrice} ¥/Monat",
+      "yearByPrice": "Sparen Sie {discountSubtract} ¥ pro Jahr"
+    },
+    "empty": "Keine Pakete verfügbar",
+    "flow": {
+      "button": "Jetzt kaufen",
+      "description": "Alle IEPL-Knoten nutzbar. Abrechnung nach Verbrauch, keine Zeitbegrenzung.",
+      "features": {
+        "more": "Mehr Features anzeigen",
+        "title": "Paket-Features"
+      },
+      "tag": "🔥 Empfohlen",
+      "tips": "Unbefristete Volumenpakete",
+      "title": "Nach Volumen zahlen"
+    },
+    "hasToPayOrder": "Sie haben eine unbezahlte Bestellung",
+    "routerButton": "Jetzt Abo kaufen"
+  },
+  "subscribe": {
+    "empty": "Kein Free-Abo",
+    "expire": {
+      "empty": "Dauerhaft gültig",
+      "expired": "Paket abgelaufen",
+      "expireSoon": "Verbleibend",
+      "expireUnit": "Tage",
+      "title": "Ablaufzeitpunkt"
+    },
+    "message": {
+      "linkCopySuccess": "Abo-Link kopiert"
+    },
+    "renewal": {
+      "close": "Automatische Verlängerung deaktiviert",
+      "loading": "Status der automatischen Verlängerung wird geändert …",
+      "open": "Automatische Verlängerung aktiviert",
+      "title": "Automatisch verlängern"
+    },
+    "reset": {
+      "description": "Reset in {resetDay} Tagen",
+      "descriptionForToday": "Heute zurückgesetzt",
+      "empty": "Kein Reset erforderlich",
+      "title": "Traffic-Resetzeit"
+    },
+    "shortcut": {
+      "apps": {
+        "clash": {
+          "comment": "Für Drittanbieter-Clients: Clash for Windows/Mac/Android/Linux",
+          "title": "Clash"
+        },
+        "export": "Exportieren nach",
+        "quantumult": {
+          "comment": "Für Drittanbieter-Clients: Quantumult / Quantumult X (iOS / iPhone / iPad / Mac / Android)",
+          "title": "Quantumult"
+        },
+        "shadowrocket": {
+          "comment": "Für Drittanbieter-Clients: Shadowrocket (iOS / iPhone / iPad / Mac)",
+          "title": "Shadowrocket"
+        },
+        "singbox": {
+          "comment": "Für Drittanbieter-Clients: SingBox (iOS / iPhone / iPad / Mac)",
+          "title": "SingBox"
+        },
+        "surfboard": {
+          "comment": "Für Drittanbieter-Clients: Surfboard (Android)",
+          "title": "Surfboard"
+        },
+        "surge": {
+          "comment": "Für Drittanbieter-Clients: Surge (Windows / Mac / Android)",
+          "title": "Surge"
+        },
+        "title": "Schnell in Dritt-Clients importieren"
+      },
+      "link": {
+        "button": "Abo-Link kopieren",
+        "title": "Abo-Link"
+      },
+      "qrcode": {
+        "tips": "QR scannen, um das Abo\nin Shadowrocket/Clash etc. zu importieren"
+      },
+      "reset": {
+        "button": "Abo zurücksetzen",
+        "modal": {
+          "cancel": "Abbrechen",
+          "content": "Sinnvoll bei Leaks der Abo-Adresse/Infos. Nach dem Reset ändern sich UUID und Abo; erneuter Import notwendig.",
+          "ok": "OK",
+          "success": "Abo-Link erfolgreich zurückgesetzt",
+          "title": "Abo-Link wirklich zurücksetzen?"
+        },
+        "success": "Erfolgreich zurückgesetzt"
+      },
+      "title": "Abo-Center"
+    },
+    "title": "Mein Abo"
+  },
+  "ticket": {
+    "create": "Ticket erstellen",
+    "form": {
+      "cancelText": "Abbrechen",
+      "level": "Ticket-Priorität",
+      "message": "Ticket-Inhalt",
+      "okText": "Absenden",
+      "subject": "Ticket-Betreff",
+      "tips": {
+        "empty": "Bitte alle Ticket-Infos ausfüllen",
+        "loading": "Ticket wird gesendet …",
+        "success": "Ticket erfolgreich eingereicht"
+      },
+      "title": "Neues Ticket"
+    },
+    "level": {
+      "0": "Normal",
+      "1": "Wichtig",
+      "2": "Dringend"
+    },
+    "status": {
+      "0": "Wartet auf Antwort",
+      "1": "Beantwortet",
+      "2": "Geschlossen"
+    },
+    "table": {
+      "action": "Aktion",
+      "close": "Schließen",
+      "createdAt": "Erstellt am",
+      "empty": "Keine Ticket-Historie",
+      "level": "Priorität",
+      "see": "Ansehen",
+      "status": "Status",
+      "subject": "Betreff",
+      "updatedAt": "Letzte Antwort"
+    },
+    "talk": {
+      "admin": "Administrator",
+      "me": "Ich",
+      "placeholder": "Antwort für dieses Ticket eingeben",
+      "submit": "Senden"
+    },
+    "title": "Bei Fragen – Ticket erstellen und uns kontaktieren"
+  },
+  "traffic": {
+    "description": {
+      "cycle": "Aktuelles Abo: monatliche Abrechnung, Reset in {resetDay} Tagen; Ablauf: {expireTime}",
+      "oneTime": "Einmalpaket: Abrechnung nach Verbrauch, dauerhaft gültig – endet bei Verbrauch"
+    },
+    "remaining": "Verbleibender Traffic",
+    "statistics": "Traffic-Statistik",
+    "table": {
+      "date": "Datum",
+      "downloadUsage": "Download gesamt",
+      "empty": "Noch keine Traffic-Daten",
+      "inner": {
+        "downloadUsage": "Download",
+        "rate": "Abrechnungsfaktor",
+        "rateUnit": "fach",
+        "total": "Gesamt",
+        "uploadUsage": "Upload"
+      },
+      "total": "Gesamt",
+      "uploadUsage": "Upload gesamt"
+    },
+    "total": "Traffic gesamt",
+    "used": "Verbraucht"
+  },
+  "welcomeCard": {
+    "button": {
+      "default": "Paket jetzt kaufen",
+      "renewal": "Jetzt verlängern",
+      "reset": "Traffic jetzt zurücksetzen"
+    },
+    "hiname": "Hallo, {name}",
+    "title": "Ab jetzt globale Beschleunigung genießen\nMit der Welt verbinden 👋"
+  },
+  "quick": {
+    "title": "Hochgeschwindigkeits-Beschleunigungsservice – speziell für Nutzer in Festland-China",
+    "description": "Netzwerkbeschleunigung mit Anbindung an Hunderte Content-Provider weltweit. Deckt globale Video-Websites ab, entsperrt alles; ChatGPT, Telegram, YouTube u. a. ohne Einschränkungen – jederzeit, überall.",
+    "features": {
+      "1": "Sperren auf YouTube, Google, Facebook, Instagram, Twitter u. a. aufheben",
+      "2": "Voller Support für iOS, macOS, Android, Windows, Router, Linux",
+      "3": "38 Server-Cluster weltweit – Verbindung von überall",
+      "4": "7×24 h echter Live-Support"
+    },
+    "buy": {
+      "title": "Paket auswählen"
+    },
+    "account": {
+      "title": "Konto erstellen",
+      "tips": "Ihr Konto dient als Zugangsnachweis. Jederzeit Abo-Status, Traffic-Nutzung, Bestellhistorie u. a. einsehbar.",
+      "password": {
+        "button": "Eigenes Passwort verwenden",
+        "tips": "Standard ist ein zufälliges Passwort. Nach erfolgreicher Zahlung werden Konto & Passwort per E-Mail zugestellt. Für ein eigenes Passwort bitte „Eigenes Passwort verwenden“ wählen."
+      }
+    },
+    "order": {
+      "title": "Bestellung prüfen & bezahlen",
+      "captcha": {
+        "title": "Bitte Mensch-Maschine-Prüfung abschließen",
+        "placeholder": "Bestätigungscode eingeben",
+        "refresh": "Code aktualisieren",
+        "submit": "Code absenden"
+      },
+      "coupon": {
+        "button": "Gutschein vorhanden? Zum Eingeben klicken",
+        "title": "Gutschein prüfen",
+        "emptyPlan": "Bitte ein Paket auswählen"
+      },
+      "message": {
+        "emptyEmail": "Bitte E-Mail-Adresse eingeben",
+        "emptyPassword": "Bitte Passwort eingeben",
+        "emptyPlan": "Bitte Paket wählen",
+        "emptyPayment": "Bitte Zahlungsart wählen",
+        "emptyCaptcha": "Bitte Bestätigungscode eingeben"
+      }
+    }
+  }
+}

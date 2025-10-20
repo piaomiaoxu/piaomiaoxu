@@ -1,0 +1,903 @@
+{
+  "auth": {
+    "features": {
+      "first": {
+        "description": "Piaomiaoxu(표묘허)는 고속 풀 트랜짓 전용 회선을 통해 안정적인 네트워크와 고속, 밀리초 응답을 보장합니다",
+        "title": "고속 풀 트랜짓 전용 회선"
+      },
+      "second": {
+        "description": "OpenAI ChatGPT, Google Bard, Middlebury 등 AI 서비스 무제한 접속, 지능형 가속",
+        "title": "AI 지능형 가속"
+      },
+      "third": {
+        "description": "Netflix, YouTube, Hulu, BBC iPlayer, Amazon Prime Video 등의 스트리밍 해제 지원",
+        "title": "스트리밍 해제"
+      }
+    },
+    "logout": "로그아웃",
+    "message": {
+      "LoggedIn": "로그인됨",
+      "loginPlease": "먼저 로그인해 주세요"
+    },
+    "title": "여기서부터 세계와 연결 👏\nPiaomiaoxu - 전 세계 네트워크 가속을 마음껏"
+  },
+  "bill": {
+    "balance": "잔액 결제",
+    "discount": "기존 상품권 차감",
+    "discountTips": "기존 상품은 신규 예구 상품 금액에서 차감되며, 초과분은 계정 잔액으로 환불됩니다",
+    "handlingFee": "수수료",
+    "original": "정가",
+    "payButton": "즉시 결제",
+    "payIconText": "안전 결제",
+    "payment": "결제 방식",
+    "preferential": "혜택",
+    "realPrice": "실결제 금액",
+    "title": "청구서 결제"
+  },
+  "client": {
+    "android": {
+      "description": "화웨이 / 샤오미 / OPPO 등 안드로이드 전 시리즈",
+      "title": "Android 클라이언트"
+    },
+    "btn": "지금 다운로드",
+    "homePage": {
+      "description": "자체 개발 클라이언트, Windows·macOS·iOS·Android 등 전 디바이스 지원, 완전 커버",
+      "title": "전 디바이스 지원\n아래 아이콘을 눌러 다운로드"
+    },
+    "ios": {
+      "description": "iPhone / iPad 전 시리즈",
+      "title": "iOS 클라이언트"
+    },
+    "knowledgeAll": "전체 튜토리얼",
+    "knowledgePage": "클라이언트 튜토리얼",
+    "mac": {
+      "description": "Intel / Apple Silicon 전 시리즈",
+      "title": "macOS 클라이언트"
+    },
+    "windows": {
+      "description": "32 / 64비트 전 시리즈",
+      "title": "Windows 클라이언트"
+    }
+  },
+  "coupon": {
+    "button": "쿠폰 확인",
+    "comment": "공식 Telegram 채널을 팔로우하고 최신 할인 정보를 받아보세요",
+    "placeholder": "👋 쿠폰이 있나요? 여기에 입력, 없으면 무시해 주세요",
+    "title": "쿠폰",
+    "message": {
+      "empty": "쿠폰을 입력해 주세요",
+      "invalid": "잘못된 쿠폰입니다",
+      "mismatch": "해당 주기에 적용되지 않는 쿠폰입니다. 주기를 변경한 뒤 다시 확인해 주세요",
+      "success": "쿠폰 확인 성공"
+    }
+  },
+  "couponExchange": {
+    "checkButton": "CDKEY 확인",
+    "exchangeButton": "상품 교환",
+    "menu": "CDKEY 교환",
+    "message": {
+      "empty": "CDKEY를 입력해 주세요",
+      "error": "할인 코드 교환 실패",
+      "incorrectType": "이 CDKEY로는 상품을 교환할 수 없습니다",
+      "notPeriod": "이 CDKEY에는 주기가 포함되어 있지 않습니다",
+      "notPlan": "이 CDKEY에는 상품이 포함되어 있지 않습니다",
+      "success": "{plan} 상품 교환 성공"
+    },
+    "placeholder": "CDKEY 교환 코드를 입력해 주세요",
+    "title": "CDKEY"
+  },
+  "currency": {
+    "symbol": "¥",
+    "unit": "원"
+  },
+  "footer": {
+    "copyRight": "© 2025 Piaomiaoxu All Rights Reserved",
+    "links": {
+      "1": {
+        "text": "예비 사이트",
+        "url": "https://piaomiaoxu.github.io"
+      },
+      "2": {
+        "text": "Telegram 채널 가입",
+        "url": "https://t.me/pmxu_notice"
+      },
+      "3": {
+        "text": "Telegram 그룹 참여",
+        "url": "https://t.me/piaomiaoxu"
+      }
+    }
+  },
+  "giftcard": {
+    "button": "즉시 교환",
+    "menu": "기프트카드 교환",
+    "message": {
+      "balance": "교환 성공, 계정에 {balance} 원 충전",
+      "empty": "기프트카드 교환 코드를 입력해 주세요",
+      "error": "기프트카드 교환 실패",
+      "plan": "교환 성공, 구독 상품 추가, 기간: {time}일",
+      "reset": "교환 성공, 구독 트래픽 초기화 완료",
+      "time": "교환 성공, 구독 기간 {time}일 연장",
+      "traffic": "교환 성공, 구독 트래픽 {traffic} GB 추가"
+    },
+    "placeholder": "기프트카드 교환 코드를 입력해 주세요",
+    "title": "Gift Card"
+  },
+  "home": {
+    "matrix": {
+      "description": "전 세계 동영상 사이트 커버, 전면 해제. ChatGPT, Telegram, YouTube 등 글로벌 앱을 언제 어디서나 자유롭게 이용",
+      "title": "스트리밍 전면 해제\n글로벌 앱 무제한 자유 접속"
+    },
+    "nodes": {
+      "country": {
+        "cn-hk": "중국 홍콩",
+        "ca": "캐나다",
+        "de": "독일",
+        "in": "인도",
+        "en": "잉글랜드",
+        "us": "미국",
+        "kr": "대한민국",
+        "kp": "북한",
+        "jp": "일본",
+        "aq": "남극",
+        "sg": "싱가포르",
+        "tw": "중국 대만",
+        "th": "태국",
+        "vn": "베트남",
+        "my": "말레이시아",
+        "ph": "필리핀",
+        "id": "인도네시아",
+        "tr": "튀르키예",
+        "ru": "러시아",
+        "fr": "프랑스",
+        "es": "스페인",
+        "it": "이탈리아",
+        "br": "브라질",
+        "mx": "멕시코",
+        "ar": "아르헨티나",
+        "au": "오스트레일리아",
+        "nz": "뉴질랜드",
+        "za": "남아프리카공화국",
+        "eg": "이집트",
+        "il": "이스라엘",
+        "ae": "아랍에미리트",
+        "fi": "핀란드",
+        "se": "스웨덴",
+        "dk": "덴마크",
+        "nl": "네덜란드",
+        "be": "벨기에",
+        "no": "노르웨이",
+        "rs": "세르비아",
+        "rw": "르완다",
+        "sa": "사우디아라비아",
+        "sb": "솔로몬 제도",
+        "sc": "세이셸",
+        "sd": "수단",
+        "sh": "세인트헬레나",
+        "si": "슬로베니아",
+        "sk": "슬로바키아",
+        "sl": "시에라리온",
+        "sm": "산마리노",
+        "sn": "세네갈",
+        "so": "소말리아",
+        "sr": "수리남",
+        "ss": "남수단",
+        "su": "소련",
+        "sv": "엘살바도르",
+        "sx": "신트마르턴(네덜란드령)",
+        "sy": "시리아",
+        "sz": "스와질랜드",
+        "td": "차드",
+        "tg": "토고",
+        "tj": "타지키스탄",
+        "tk": "토켈라우",
+        "tl": "동티모르",
+        "tm": "투르크메니스탄",
+        "tn": "튀니지",
+        "to": "통가",
+        "tv": "투발루",
+        "tz": "탄자니아",
+        "ua": "우크라이나",
+        "ug": "우간다",
+        "uk": "영국",
+        "uy": "우루과이",
+        "uz": "우즈베키스탄",
+        "va": "바티칸",
+        "ve": "베네수엘라",
+        "vu": "바누아투",
+        "ws": "사모아",
+        "xk": "코소보",
+        "ye": "예멘",
+        "yt": "마요트",
+        "yu": "유고슬라비아",
+        "zm": "잠비아",
+        "zw": "짐바브웨"
+      },
+      "description": "전 세계 1000대+ 고속 서버, 언제 어디서나 빠르고 안정적인 연결",
+      "title": "글로벌 노드, 고속·안정 연결"
+    },
+    "poster": {
+      "button": "지금 체험",
+      "description": "전 세계 수백 콘텐츠 공급자와 상호 접속, 최대 2000Mbps 단일 회선 접속 능력",
+      "features": {
+        "1": "스트리밍 해제",
+        "2": "풀 트랜짓 노드",
+        "3": "전 디바이스 지원",
+        "4": "터널 암호화",
+        "5": "끊김 없는 연결",
+        "6": "전용 회선 가속"
+      },
+      "title": "Piaomiaoxu\n전 세계 네트워크 가속을 무제한으로"
+    },
+    "privacy": {
+      "description": "풀 트랜짓 노드, 터널 암호화로 프라이버시 보호, 안전한 암호화로 유출 방지",
+      "steps": {
+        "node": "글로벌 고방어 노드",
+        "safe": "터널 암호화",
+        "target": "해외 서비스",
+        "transfer": "고속 중계 서비스",
+        "user": "사용자 기기"
+      },
+      "title": "개인정보 보호, 보안 암호화"
+    },
+    "service": {
+      "button": {
+        "text": "고객센터 문의",
+        "url": "https://t.me/piaomiaoxu"
+      },
+      "description": "문의 사항은 언제든지! 다양한 채널로 연락, 네트워크 엔지니어 상시 대기, 신속 대응 VIP 서비스",
+      "title": "연중무휴 7x24 초고속 응답"
+    },
+    "shop": {
+      "button": "지금 구매",
+      "description": "글로벌 IEPL 전용 회선 노드, 월/분기/연간 구독, 더 많은 혜택",
+      "plans": {
+        "cycle": {
+          "1": {
+            "features": {
+              "ad": "분기 결제 시 5원 즉시 절약",
+              "list": "트래픽: 매월 200GB, 매월 초기화\n디바이스: 기기 수 무제한\n대역폭: 50Mbps 제한\n회선: 고속 노드\n노드: 32개 국가/지역",
+              "title": "상품 특징"
+            },
+            "name": "Basis 고속 상품",
+            "price": "10",
+            "priceTime": "월",
+            "sid": "2"
+          },
+          "2": {
+            "features": {
+              "ad": "분기 결제 시 6원 즉시 절약",
+              "list": "트래픽: 매월 600GB, 매월 초기화\n디바이스: 기기 수 무제한\n대역폭: 100Mbps 제한\n회선: IEPL 전용 + 릴레이 터널\n노드: 65개 국가/지역",
+              "title": "상품 특징"
+            },
+            "name": "Standard 프로 상품",
+            "price": "20",
+            "priceTime": "월",
+            "sid": "5"
+          },
+          "3": {
+            "features": {
+              "ad": "분기 결제 시 6원 즉시 절약",
+              "list": "트래픽: 매월 999GB, 매월 초기화\n디바이스: 기기 수 무제한\n대역폭: 200Mbps 제한\n회선: IEPL 전용 + 릴레이 터널 + 기업 전용선\n노드: 108개 국가/지역\n스트리밍 해제",
+              "title": "상품 특징"
+            },
+            "name": "Premium 플래그십",
+            "price": "35",
+            "priceTime": "월",
+            "sid": "6"
+          }
+        },
+        "flow": {
+          "1": {
+            "features": {
+              "ad": "영구 무기한 트래픽 팩",
+              "list": "트래픽: 200GB 영구, 소진 시 종료\n디바이스: 제한 없음\n대역폭: 100Mbps 제한\n회선: IEPL 전용 + 릴레이 터널 + 기업 전용선\n노드: 108개 국가/지역",
+              "title": "상품 특징"
+            },
+            "name": "Rocket 200GB",
+            "price": "60",
+            "priceTime": "영구",
+            "sid": "28"
+          },
+          "2": {
+            "features": {
+              "ad": "영구 무기한 트래픽 팩",
+              "list": "트래픽: 600GB 영구, 소진 시 종료\n디바이스: 제한 없음\n대역폭: 200Mbps 제한\n회선: IEPL 전용 + 릴레이 터널 + 기업 전용선\n노드: 108개 국가/지역",
+              "title": "상품 특징"
+            },
+            "name": "Rocket 600GB",
+            "price": "99",
+            "priceTime": "영구",
+            "sid": "29"
+          },
+          "3": {
+            "features": {
+              "ad": "영구 무기한 트래픽 팩",
+              "list": "트래픽: 900GB 영구, 소진 시 종료\n디바이스: 제한 없음\n대역폭: 300Mbps 제한\n회선: IEPL 전용 + 릴레이 터널 + 기업 전용선\n노드: 108개 국가/지역",
+              "title": "상품 특징"
+            },
+            "name": "Rocket 900GB",
+            "price": "169",
+            "priceTime": "영구",
+            "sid": "30"
+          }
+        },
+        "switch": {
+          "cycle": "주기 구독",
+          "flow": "용량제 결제"
+        }
+      },
+      "title": "상품을 구매하고 글로벌 네트워크 가속을 즐기세요"
+    }
+  },
+  "invite": {
+    "banner": {
+      "button": "지금 초대",
+      "description": "즉시 수익! 넉넉한 커미션 캐시백, 출금 또는 결제 사용 가능",
+      "title": "친구 초대\n넉넉한 커미션 적립"
+    },
+    "codeList": {
+      "button": "초대 코드 생성",
+      "copy": "초대 링크 복사",
+      "empty": "초대 코드가 없습니다",
+      "item": "초대 코드",
+      "tips": "초대 링크를 복사해 친구에게 공유하세요. 링크로 가입 시 커미션을 받습니다",
+      "title": "초대 코드 관리"
+    },
+    "message": {
+      "codeCopySuccess": "초대 코드 복사 성공",
+      "codeCreateSuccess": "초대 코드 생성 성공"
+    },
+    "recordList": {
+      "commission": "커미션",
+      "createdTime": "생성 시간",
+      "empty": "커미션 기록이 없습니다",
+      "orderAmount": "주문 금액",
+      "title": "커미션 기록"
+    },
+    "wallet": {
+      "button": {
+        "transfer": "이체",
+        "withdraw": "출금"
+      },
+      "confirm": "확인 중 커미션",
+      "description": "현재 커미션 잔액",
+      "people": "초대 인원",
+      "proportion": "커미션 비율",
+      "title": "초대 커미션",
+      "total": "누적 커미션",
+      "transfer": {
+        "balance": "이체 금액",
+        "error": {
+          "empty": "이체 금액은 0보다 커야 합니다"
+        },
+        "max": "이체 가능 최대 금액",
+        "submit": "즉시 이체",
+        "success": "프로모션 커미션 잔액으로 이체 완료",
+        "title": "커미션 이체"
+      },
+      "withdraw": {
+        "account": "출금 계정",
+        "description": "출금 시 현재 커미션 잔액이 초기화되며, 출금 금액은 1~3 영업일 내 입금됩니다",
+        "method": "출금 방식",
+        "submit": "즉시 출금",
+        "success": "프로모션 커미션 출금 신청 완료",
+        "title": "커미션 출금"
+      }
+    }
+  },
+  "login": {
+    "description": "전 세계를 커버하는 고속 네트워크",
+    "email": {
+      "placeholder": "이메일을 입력해 주세요",
+      "rules": {
+        "required": "올바른 이메일을 입력해 주세요"
+      }
+    },
+    "password": {
+      "placeholder": "비밀번호를 입력해 주세요",
+      "rules": {
+        "min": "비밀번호는 최소 8자리",
+        "required": "비밀번호를 입력해 주세요"
+      }
+    },
+    "register": "아직 계정이 없나요? 회원가입",
+    "remember": "비밀번호 기억",
+    "reset": "비밀번호를 잊으셨나요?",
+    "submit": "로그인",
+    "success": "로그인 성공",
+    "title": "Piaomiaoxu 로그인"
+  },
+  "node": {
+    "banner": {
+      "button": "고객센터 문의",
+      "title": "원하는 노드가 없나요? 아래 버튼을 눌러 맞춤 상담"
+    },
+    "check": "최근 점검",
+    "empty": "사용 가능한 노드가 없습니다",
+    "rate": "배율",
+    "ss": "노드 SS 링크 복사"
+  },
+  "notice": {
+    "clickText": "자세히 보려면 클릭",
+    "coupon": {
+      "btnText": "클릭하여 쿠폰 받고 연장",
+      "countText": "이벤트 종료까지:",
+      "title": "오랜만이죠\n한정 기간 연장 할인"
+    },
+    "empty": "알림이 없습니다",
+    "iconBox": {
+      "button": "전체 알림 보기",
+      "more": "더 많은 알림 불러오기",
+      "title": "전체 알림"
+    },
+    "newUser": {
+      "btnText": "클릭하여 쿠폰 받고 주문",
+      "countText": "이벤트 카운트다운:",
+      "title": "신규 환영 혜택\n한정 할인"
+    },
+    "obj": {
+      "balance": "캐시 쿠폰",
+      "balanceSuffix": "원",
+      "discount": "할인 쿠폰",
+      "discountSuffix": "배"
+    },
+    "special": {
+      "btnText": "클릭하여 쿠폰 받고 주문",
+      "countText": "이벤트 카운트다운:",
+      "title": "명절 특가\n한정 할인"
+    },
+    "top": "중요 공지"
+  },
+  "order": {
+    "button": {
+      "cancel": "주문 취소",
+      "detail": "상세 보기"
+    },
+    "deposit": "충전",
+    "detail": {
+      "createdTime": "주문 시간",
+      "message": {
+        "cancelError": "주문 취소 실패",
+        "cancelSuccess": "주문 취소 성공",
+        "copyError": "결제 주소 복사 실패",
+        "copySuccess": "결제 주소 복사 성공"
+      },
+      "qrcodeTips": "WeChat/Alipay를 열어 QR을 스캔해 결제하세요",
+      "payCopy": "결제 주소 복사",
+      "payTips": "QR 스캔 또는 새로 열린 결제 페이지에서 결제를 완료해 주세요. 자동 이동이 되지 않으면 위 결제 주소를 복사해 직접 열어 주세요. 결제 중인 주문은 임의 취소를 지양해 주세요(중복 결제/상태 미반영 방지)",
+      "payUrl": "결제 주소",
+      "payWaiting": "결제 완료 대기 중",
+      "planInfo": "상품",
+      "title": "주문 상세",
+      "tradeNo": "주문 번호"
+    },
+    "list": {
+      "action": "작업",
+      "amount": "주문 금액",
+      "empty": "주문 기록이 없습니다",
+      "number": "#",
+      "order": "주문 정보",
+      "status": "주문 상태"
+    },
+    "message": {
+      "cancelSuccess": "주문 취소 성공",
+      "copyPayUrlError": "결제 주소 복사 실패",
+      "copyPayUrlSuccess": "결제 주소 복사 성공"
+    },
+    "payPending": {
+      "copyPayUrl": "결제 링크 복사",
+      "linkButton": "클릭하여 결제 페이지 이동",
+      "tips": "결제 중인 주문은 임의 취소하지 마세요. 중복 결제/상태 미반영을 방지합니다",
+      "title": "미결제 주문이 있습니다",
+      "url": "결제 주소"
+    },
+    "status": {
+      "cancelled": "취소됨",
+      "completed": "완료됨",
+      "discounted": "차감됨",
+      "paid": "개통 중",
+      "pending": "결제 대기"
+    },
+    "title": "주문"
+  },
+  "page": {
+    "auth": "로그인/가입",
+    "base": {
+      "dashboard": "내 패널",
+      "knowledge": "사용 가이드",
+      "label": "기본"
+    },
+    "commercial": {
+      "invite": "내 초대",
+      "label": "재무",
+      "order": "내 주문"
+    },
+    "download": "다운로드",
+    "home": "홈",
+    "menus": {
+      "all": "전체 메뉴",
+      "close": "메뉴 닫기"
+    },
+    "person": {
+      "label": "개인",
+      "profile": "계정 설정",
+      "ticket": "서비스 티켓",
+      "traffic": "트래픽 기록"
+    },
+    "subscribe": {
+      "label": "구독",
+      "node": "노드 상태",
+      "shop": "상품 구매"
+    }
+  },
+  "plan": {
+    "device": "디바이스 수",
+    "deviceUnit": "대",
+    "name": "상품명",
+    "period": "구독 주기",
+    "periodList": {
+      "half_year_price": "반년",
+      "month_price": "월간",
+      "onetime_price": "일회성",
+      "quarter_price": "분기",
+      "reset_price": "리셋 팩",
+      "three_year_price": "3년",
+      "two_year_price": "2년",
+      "year_price": "연간"
+    },
+    "periodUnit": {
+      "half_year_price": "반년",
+      "month_price": "월",
+      "onetime_price": "일회",
+      "quarter_price": "분기",
+      "reset_price": "리셋 팩",
+      "three_year_price": "3년",
+      "two_year_price": "2년",
+      "year_price": "년"
+    },
+    "speed": "대역폭 속도",
+    "speedUnLimit": "무제한 속도",
+    "traffic": "상품 트래픽"
+  },
+  "profile": {
+    "wallet": {
+      "balance": {
+        "account": "계정 잔액",
+        "invite": "커미션 잔액"
+      },
+      "button": "충전",
+      "description": "사용 가능 지갑 잔액 + 커미션 지갑 잔액",
+      "recharge": {
+        "balance": "충전 금액",
+        "newLabel": "충전 후 잔액",
+        "oldLabel": "현재 잔액",
+        "submit": "즉시 충전",
+        "title": "잔액 충전"
+      },
+      "title": "내 지갑"
+    }
+  },
+  "register": {
+    "code": {
+      "button": "인증코드 발송",
+      "placeholder": "이메일 인증코드를 입력해 주세요"
+    },
+    "description": "여기서부터 세계와 연결",
+    "email": {
+      "placeholder": "이메일을 입력해 주세요",
+      "rules": {
+        "required": "올바른 이메일을 입력해 주세요"
+      }
+    },
+    "invite": {
+      "placeholder": "초대 코드를 입력해 주세요",
+      "rules": {
+        "required": "초대 코드는 필수입니다"
+      }
+    },
+    "login": "이미 계정이 있나요? 로그인",
+    "password": {
+      "placeholder": "로그인 비밀번호를 입력해 주세요",
+      "rules": {
+        "min": "비밀번호는 최소 8자리",
+        "required": "비밀번호를 입력해 주세요"
+      }
+    },
+    "password2": {
+      "placeholder": "로그인 비밀번호를 다시 입력해 주세요",
+      "rules": {
+        "min": "비밀번호는 최소 8자리",
+        "required": "로그인 비밀번호를 다시 입력해 주세요",
+        "same": "두 비밀번호가 일치하지 않습니다"
+      }
+    },
+    "submit": "회원가입",
+    "success": "가입 성공",
+    "title": "Piaomiaoxu 가입"
+  },
+  "reset": {
+    "changePwdByEmail": "비밀번호 변경(이메일 인증)",
+    "changePwdByOldPwd": "비밀번호 변경(기존 비밀번호 인증)",
+    "code": {
+      "button": "인증코드 발송",
+      "label": "이메일 인증코드",
+      "placeholder": "이메일 인증코드를 입력해 주세요",
+      "success": "인증코드가 이메일로 발송되었습니다"
+    },
+    "description": "로그인 비밀번호 재설정",
+    "email": {
+      "placeholder": "이메일을 입력해 주세요",
+      "rules": {
+        "required": "올바른 이메일을 입력해 주세요"
+      }
+    },
+    "login": "로그인으로 돌아가기",
+    "password": {
+      "label": "새 비밀번호",
+      "placeholder": "새 로그인 비밀번호를 입력해 주세요",
+      "rules": {
+        "min": "비밀번호는 최소 8자리",
+        "required": "비밀번호를 입력해 주세요"
+      }
+    },
+    "passwordConfirm": {
+      "label": "새 비밀번호 확인",
+      "placeholder": "새 로그인 비밀번호를 다시 입력해 주세요",
+      "rules": {
+        "min": "비밀번호는 최소 8자리",
+        "required": "새 로그인 비밀번호를 다시 입력해 주세요",
+        "same": "두 비밀번호가 일치하지 않습니다"
+      }
+    },
+    "passwordOld": {
+      "label": "기존 비밀번호",
+      "placeholder": "기존 로그인 비밀번호를 입력해 주세요",
+      "rules": {
+        "min": "비밀번호는 최소 8자리",
+        "required": "비밀번호를 입력해 주세요"
+      }
+    },
+    "submit": "비밀번호 재설정",
+    "success": "비밀번호 재설정 성공",
+    "title": "비밀번호 재설정"
+  },
+  "shop": {
+    "period": "결제 주기",
+    "confirm": {
+      "description": "주문 정보를 확인해 주세요. 결제 수단별 수수료가 다를 수 있습니다",
+      "title": "주문 확인",
+      "override": {
+        "title": "상품을 변경하시겠어요?",
+        "content": "주의: 상품 변경 시 현재 상품은 새 상품으로 대체됩니다",
+        "okText": "확인",
+        "cancelText": "취소"
+      }
+    },
+    "custom": {
+      "button": "고객센터 문의",
+      "title": "원하는 상품이 없나요? 아래 버튼으로 맞춤 상담"
+    },
+    "cycle": {
+      "description": "IEPL 전용 회선 노드, 월/분기/연간 구독, 더 많은 혜택",
+      "features": {
+        "more": "자세한 특징 보기",
+        "title": "Features"
+      },
+      "month": "월간",
+      "switchSuffix": "가격",
+      "tag": "🔥 베스트",
+      "title": "주기 구독",
+      "year": "연간",
+      "yearByMonth": "연간 {discount} 할인, 월 {monthPrice}원",
+      "yearByPrice": "연간 {discountSubtract}원 즉시 절약"
+    },
+    "empty": "구매 가능한 상품이 없습니다",
+    "flow": {
+      "button": "지금 구매",
+      "description": "IEPL 전용 회선 노드, 트래픽 기반 과금, 시간 제한 없음, 사용량만큼 결제",
+      "features": {
+        "more": "자세한 특징 보기",
+        "title": "상품 특징"
+      },
+      "tag": "🔥 추천",
+      "tips": "무기한 트래픽 팩",
+      "title": "용량제 결제"
+    },
+    "hasToPayOrder": "미결제 주문이 있습니다",
+    "routerButton": "지금 구독 구매"
+  },
+  "subscribe": {
+    "empty": "Free 구독 없음",
+    "expire": {
+      "empty": "영구 유효",
+      "expired": "상품이 만료되었습니다",
+      "expireSoon": "만료까지",
+      "expireUnit": "일",
+      "title": "만료일"
+    },
+    "message": {
+      "linkCopySuccess": "구독 링크 복사 완료"
+    },
+    "renewal": {
+      "close": "자동 갱신 꺼짐",
+      "loading": "자동 갱신 상태 변경 중...",
+      "open": "자동 갱신 켜짐",
+      "title": "자동 갱신"
+    },
+    "reset": {
+      "description": "{resetDay}일 후 초기화",
+      "descriptionForToday": "오늘 초기화 완료",
+      "empty": "초기화 불필요",
+      "title": "트래픽 초기화 시간"
+    },
+    "shortcut": {
+      "apps": {
+        "clash": {
+          "comment": "서드파티 클라이언트: Clash for Windows / Mac / Android / Linux",
+          "title": "Clash"
+        },
+        "export": "내보내기",
+        "quantumult": {
+          "comment": "서드파티 클라이언트: Quantumult / Quantumult X (iOS / iPhone / iPad / Mac / Android)",
+          "title": "Quantumult"
+        },
+        "shadowrocket": {
+          "comment": "서드파티 클라이언트: Shadowrocket (iOS / iPhone / iPad / Mac)",
+          "title": "Shadowrocket"
+        },
+        "singbox": {
+          "comment": "서드파티 클라이언트: SingBox (iOS / iPhone / iPad / Mac)",
+          "title": "SingBox"
+        },
+        "surfboard": {
+          "comment": "서드파티 클라이언트: Surfboard (Android)",
+          "title": "Surfboard"
+        },
+        "surge": {
+          "comment": "서드파티 클라이언트: Surge (Windows / Mac / Android)",
+          "title": "Surge"
+        },
+        "title": "서드파티 클라이언트로 빠른 내보내기"
+      },
+      "link": {
+        "button": "구독 링크 복사",
+        "title": "구독 링크"
+      },
+      "qrcode": {
+        "tips": "QR 코드를 스캔해 구독을\nShadowrocket / Clash 등에 가져오기"
+      },
+      "reset": {
+        "button": "구독 재설정",
+        "modal": {
+          "cancel": "취소",
+          "content": "구독 주소 또는 정보가 유출되었을 경우 수행하세요. 재설정 후 UUID 및 구독이 변경되며, 다시 내보내기가 필요합니다.",
+          "ok": "확인",
+          "success": "구독 링크 재설정 완료",
+          "title": "구독 링크를 재설정할까요?"
+        },
+        "success": "재설정 완료"
+      },
+      "title": "구독 센터"
+    },
+    "title": "내 구독"
+  },
+  "ticket": {
+    "create": "티켓 생성",
+    "form": {
+      "cancelText": "취소",
+      "level": "티켓 등급",
+      "message": "티켓 내용",
+      "okText": "제출",
+      "subject": "티켓 제목",
+      "tips": {
+        "empty": "티켓 정보를 모두 입력해 주세요",
+        "loading": "티켓 제출 중...",
+        "success": "티켓 제출 성공"
+      },
+      "title": "새 티켓 만들기"
+    },
+    "level": {
+      "0": "보통",
+      "1": "중요",
+      "2": "긴급"
+    },
+    "status": {
+      "0": "답변 대기",
+      "1": "답변 완료",
+      "2": "종료됨"
+    },
+    "table": {
+      "action": "작업",
+      "close": "닫기",
+      "createdAt": "생성 시간",
+      "empty": "티켓 기록이 없습니다",
+      "level": "티켓 등급",
+      "see": "보기",
+      "status": "상태",
+      "subject": "제목",
+      "updatedAt": "마지막 답변 시간"
+    },
+    "talk": {
+      "admin": "관리자",
+      "me": "나",
+      "placeholder": "내용을 입력해 티켓에 답장하세요",
+      "submit": "전송"
+    },
+    "title": "문의 사항은 티켓을 생성해 주세요"
+  },
+  "traffic": {
+    "description": {
+      "cycle": "현재 구독은 월 과금이며, {resetDay}일 후 트래픽 초기화, {expireTime} 만료",
+      "oneTime": "현재 구독은 트래픽 기반 과금이며, 트래픽은 영구 유효(소진 시 종료)"
+    },
+    "remaining": "잔여 사용 가능 트래픽",
+    "statistics": "구독 트래픽 통계",
+    "table": {
+      "date": "날짜",
+      "downloadUsage": "다운로드 총량",
+      "empty": "트래픽 기록이 없습니다",
+      "inner": {
+        "downloadUsage": "다운로드",
+        "rate": "과금 배율",
+        "rateUnit": "배",
+        "total": "합계",
+        "uploadUsage": "업로드"
+      },
+      "total": "총량",
+      "uploadUsage": "업로드 총량"
+    },
+    "total": "총 트래픽",
+    "used": "사용량"
+  },
+  "welcomeCard": {
+    "button": {
+      "default": "지금 상품 구매",
+      "renewal": "지금 연장",
+      "reset": "지금 트래픽 초기화"
+    },
+    "hiname": "Halo, {name}",
+    "title": "지금부터 글로벌 네트워크 가속\n세상과 연결하기 👋"
+  },
+  "quick": {
+    "title": "중국 본토 사용자를 위한 고속 네트워크 가속 서비스",
+    "description": "전 세계 수백 콘텐츠 공급자와 상호 접속되는 네트워크 가속. 전 세계 동영상 사이트 전면 해제, ChatGPT·Telegram·YouTube 등 글로벌 앱을 언제 어디서나 자유롭게 이용",
+    "features": {
+      "1": "YouTube, Google, Facebook, Instagram, Twitter 등 사이트 차단 해제",
+      "2": "iOS·macOS·Android·Windows·라우터·Linux 완전 지원",
+      "3": "38개 서버 클러스터로 전 세계 커버, 어디서나 접속",
+      "4": "연중무휴 7x24 실시간 전담 고객센터 응대"
+    },
+    "buy": {
+      "title": "상품 선택"
+    },
+    "account": {
+      "title": "계정 만들기",
+      "tips": "계정은 사이트 이용 자격 증명입니다. 언제든 로그인하여 구독 상태, 사용량, 주문 기록 등을 확인할 수 있습니다",
+      "password": {
+        "button": "사용자 지정 비밀번호 사용",
+        "tips": "기본은 임의 비밀번호입니다. 결제 성공 후 계정/비번이 이메일로 발송됩니다. 직접 설정하려면 ‘사용자 지정 비밀번호’ 버튼을 눌러주세요"
+      }
+    },
+    "order": {
+      "title": "주문 확인 및 결제 완료",
+      "captcha": {
+        "title": "사람-기계 인증을 완료해 주세요",
+        "placeholder": "인증코드 입력",
+        "refresh": "인증코드 새로고침",
+        "submit": "인증코드 제출"
+      },
+      "coupon": {
+        "button": "쿠폰이 있나요? 클릭하여 입력",
+        "title": "쿠폰 확인",
+        "emptyPlan": "상품을 선택해 주세요"
+      },
+      "message": {
+        "emptyEmail": "이메일을 입력해 주세요",
+        "emptyPassword": "비밀번호를 입력해 주세요",
+        "emptyPlan": "상품을 선택해 주세요",
+        "emptyPayment": "결제 수단을 선택해 주세요",
+        "emptyCaptcha": "인증코드를 입력해 주세요"
+      }
+    }
+  }
+}
