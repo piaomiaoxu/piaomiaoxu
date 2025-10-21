@@ -11,7 +11,7 @@
 // @ts-ignore
 window.CONFIG = {
   // 通用配置
-  logo: "https://github.com/dc8683/picx-images-hosting/raw/master/Air-Rocket-T-LOGO@1x.2vewwvqwbf.webp", // 网站logo
+  logo: "https://img.pmxu.xyz/pmx/20251021/d33733ccbb83e8f9a613b52e887510bc.webp", // 网站logo
   title: "缥缈墟", // 网站标题.
 
   // 主题配置
