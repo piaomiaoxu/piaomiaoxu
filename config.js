@@ -264,24 +264,24 @@ window.CONFIG = {
     windows: {
       id: 1,
       downloadLink:
-        "https://code.visualstudio.com/sha/download?build=stable&os=darwin-arm64", // Windows 客户端下载链接
-      docLink: "https://www.microsoft.com/en-us/edge/mac?form=MA13FJ",
+        "https://file.pmxu.xyz/%E8%BD%AF%E4%BB%B6%E6%94%B6%E8%97%8F/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/%E7%A8%B3%E5%AE%9A%E7%89%88/clash-verge-rev", // Windows 客户端下载链接
+      docLink: "https://pmxu.wiki/vpn/",
     },
     mac: {
       id: 2,
       downloadLink:
-        "https://apps.apple.com/cn/app/ultra-vpn-vpn-and-wifi-proxy/id6452726154?mt=12", // macOS 客户端下载链接
-      docLink: "https://www.apple.com/macos/macos-sequoia/",
+        "https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349", // macOS 客户端下载链接
+      docLink: "https://pmxu.wiki/vpn/",
     },
     ios: {
       id: 4,
-      downloadLink: "https://apple.com", // iOS 客户端下载链接
-      docLink: undefined,
+      downloadLink: "https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349", // iOS 客户端下载链接
+      docLink: "https://pmxu.wiki/vpn/",
     },
     android: {
       id: 3,
-      downloadLink: "https://google.com", // Android 客户端下载链接
-      docLink: undefined,
+      downloadLink: "https://file.pmxu.xyz/%E8%BD%AF%E4%BB%B6%E6%94%B6%E8%97%8F/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/%E7%A8%B3%E5%AE%9A%E7%89%88/ClashMeta_Android", // Android 客户端下载链接
+      docLink: "https://pmxu.wiki/vpn/",
     },
     //  Home 页面中的客户端 mockup 图片
     mockup: {
