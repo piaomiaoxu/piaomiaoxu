@@ -294,7 +294,7 @@ window.CONFIG = {
 
   // 商店页面配置
   shop: {
-    sort: "cycle", // 优先显示套餐列表: cycle 周期套餐列表，flow 流量套餐列表
+    sort: "flow", // 优先显示套餐列表: cycle 周期套餐列表，flow 流量套餐列表
     deduct_enable: true, // 是否开启折抵，和后台 - 系统设置 - 订阅 - 是否开启折抵同步，由于后端折抵开关配置并未向前端传递，因此这里需要手动配置同步和后台中的配置
     cycle: {
       primary_plan: 6, // 订阅套餐列表中默认高亮显示的套餐 ID，null 为不高亮显示
